@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'title' => 'La Graciosa | Líneas Romero',
+    'description' => 'DESCUBRE LAS MARAVILLAS DE LAS ISLAS',
+    'keywords' => 'islas, canarias, lanzarote, la graciosa, fuerteventura',
+
+    'heading-text' => 'DESCONECTA EN UNA <br> ISLA PARADISÍACA Y SALVAJE',
+    'title-1' => 'LA GRACIOSA',
+    'text-1' => 'La Graciosa es un auténtico paraíso virgen ubicado en el Archipiélago Chinjo, en la parte más al noreste de Canarias. Con menos de 800 habitantes, es una joya desértica pero que ofrece unos parajes naturales únicos en el mundo. ¿Quieres descubrir esta isla? Viaja con Líneas Romero desde el puerto de Órzola, en Lanzarote, hasta Caleta de Sebo, capital y único núcleo urbano de La Graciosa.',
+    'title-2' => '¿Dónde está La Graciosa?',
+    'text-2' => 'La Graciosa se encuentra dentro de ese paraíso que son las Islas Canarias. Concretamente forma parte del Archipiélago Chinijo, ubicado al noreste de Lanzarote, declarado Parque Natural en 1986 y al que pertenecen también los islotes de Montaña Clara, Roque del Este, Roque del Oeste y Alegranza. "El Río", un espacio de mar de un kilómetro de ancho y escasos metros de profundidad, es lo que separa La Graciosa de Lanzarote. Sin embargo, en Líneas Romero volvemos a unirlas gracias a nuestros ferries, que conectan los pueblos de Caleta de Sebo (La Graciosa) y Órzola (Lanzarote). <br><br> En 2018 La Graciosa fue reconocida como la octava isla habitada de Canarias. Sin embargo, sigue dependiendo administrativamente de Lanzarote y pertenece la provincia de Las Palmas. Esta pequeña isla cuenta con una superficie total de 29 km² y tan sólo dos pueblos: Caleta del Sebo y Pedro Barba, donde viven poco más de 700 personas.',
+    'title-3' => 'Historia de La Graciosa',
+    'text-3' => 'Fue conquistada en el año 1402 por Juan de Bethencourt, un explorador normando que llegó bajo mandato de Enrique III de Castilla. Así, fue proclamada como una de las islas pertenecientes a Canarias, todo bajo el mandato del reino de Castilla y León de acuerdo con el Tratado de Alcázovas en el año 1479. <br><br> Se desconoce el origen de su nombre, pero por varios escritos se puede afirmar que el nombre de La Graciosa existía desde mucho antes de que Lanzarote se incorporase al reino de Castilla. En cuanto a su formación, según los expertos, data de la segunda serie efusiva del Cuaternario, fruto de la actividad volcánica surgida desde las aguas del océano.',
+    'title-4' => 'Los antepasados',
+    'text-4' => 'Desde tiempos remotos, La Graciosa fue un lugar de desembarco, como refugio de los navegantes que pasaban por el Archipiélago. Además, según Le Canarien, un manuscrito redactado por los clérigos que vinieron en una expedición en 1402, parece que la isla era la base donde se establecieron los miembros de esta expedición para realizar el primer contacto con los indígenas de Lanzarote. <br><br> Más recientemente, La Graciosa fue el refugio de los lanzaroteños durante las erupciones de Timanfaya, en 1730. También era el lugar a donde acudían buscando crías de pardela -cuya captura de esta especie protegida está prohibida en la actualidad- conejos, el cosco del que se obtenía gofio, mariscos y pescado.',
+    'title-5' => 'Playas de ensueño',
+    'text-5' => 'La Graciosa es un lugar de ensueño para todos los amantes del mar, ya que su perímetro esconde unas maravillosas playas vírgenes. No se pueden perder',
+    'title-6' => 'Playa de Las Conchas',
+    'text-6' => 'En el noroeste de la isla podemos encontrarnos esta playa que, sin duda, es una de las preferidas de todos aquellos que visitan La Graciosa. No es la más recomendada para el baño, ya que su fuerte oleaje lo hace peligroso. Sin embargo, el contraste del turquesa de su agua, la arena blanca y el rojo de Montaña Bermeja, a su espalda, hacen que sea casi obligatorio visitarla y captar su belleza fotografiándola.',
+    'title-7' => 'Playa de La Francesa',
+    'text-7' => 'Ubicada en el sur de la isla, es la mejor playa para practicar snorkel, disfrutar tumbado en su arena blanca y darse un chapuzón en sus tranquilas aguas turquesas. Además, sus vistas son impresionantes, ya que se encuentra justo frente al risco de Famara, en Lanzarote. <br><br> ¿Quieres descubrirla? En Líneas Romero te ofrecemos nuestra excursión en el catamarán I love La Graciosa, en la que podrás disfrutar de esta increíble playa practicando kayak.',
+    'title-8' => 'Playa de La Cocina',
+    'text-8' => 'A escasos kilómetros al sur de Playa de La Francesa nos encontramos con esta magnífica cala virgen de aguas cristalinas. Ubicada a resguardo del antiguo volcán de Montaña Amarilla, las tonalidades ocre de su entorno la hacen un lugar extraordinario y, sin duda, un remanso de paz.',
+    'title-9' => 'Playa de El Salado',
+    'text-9' => 'Caminando desde Caleta de Sebo se encuentra esta playa que se encuentra rodeada de dunas de arena blanca y cuenta con unas calmadas aguas turquesas. Muy cerca de ella se ubica la única zona donde está permitido acampar en La Graciosa.',
+    'title-10' => 'El tesoro que esconde bajo el mar',
+    'text-10' => 'La Graciosa cuenta con un tesoro bajo el mar. Es por eso que se enmarca dentro de la Reserva Marina del Archipiélago Chinijo. Con 70.700 hectáreas, es la mayor reserva marina de Europa y un área de excepcional valor paisajístico. <br><br> Esta reserva alberga la mayor biodiversidad marina de Canarias. Fue declarada en 1995 con el objetivo de garantizar la explotación sostenible de los recursos pesqueros. Entre otras medidas de protección, queda prohibida toda clase de pesca marítima y extracción de especies vivas con excepciones, como la pesca de recreo a una distancia superior a 2 millas.',
+    'title-11' => '¡AVENTURATE!',
+    'text-11' => 'Aunque también posee un helipuerto, la isla es accesible únicamente desde el mar. Los ferries de La Graciosa de Líneas Romero son la mejor opción para descubrir este tesoro en medio del Atlántico. Y si quieres vivir al máximo esta experiencia, Líneas Romero también ofrece excursiones llenas de actividades para que conozcas La Graciosa de la manera más divertida. <br><br> Escápate y disfruta de la naturaleza en estado puro. En el mundo quedan pocos rincones como este… ¡Aprovecha esta oportunidad!',
+];

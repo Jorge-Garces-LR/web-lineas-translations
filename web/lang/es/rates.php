@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'title' => 'Tarifas',
+    'description' => 'Tarifas de los billetes de barco de las rutas de Líneas Romero',
+    'keywords' => 'tarifas, precios, billetes, barco, ferry, Líneas Romero',
+
+    'important_notice' => 'AVISO IMPORTANTE',
+    'new_rates_info' => 'Les informamos que a partir del día 15 de marzo la línea Órzola - La Graciosa tendrá nuevas tarifas, detalladas a continuación:',
+    'lanzarote_la_graciosa' => 'LANZAROTE - LA GRACIOSA',
+    'standard_rate' => 'Tarifa standard',
+    'new' => '* NUEVA',
+    'residents' => 'RESIDENTES',
+    'one_way' => 'IDA',
+    'round_trip' => 'IDA Y VUELTA',
+    'adult' => 'ADULTO',
+    'child' => 'NIÑO',
+    'non_residents' => 'NO RESIDENTES',
+    'mini_rate' => 'Tarifa mini',
+    'optimal_rate' => 'Tarifa óptima',
+    'open_dates_ticket' => 'Billete con fechas abiertas',
+    'unlimited_changes' => 'Cambios de fecha y hora sin recargo (ilimitadas, sin restricción de tiempo)*',
+    'cancellation_policy' => 'Cancelación de billetes hasta 24 horas antes de la salida sin recargo',
+    'luggage_policy' => 'Equipaje permitido por persona: 20kg como máximo repartidos entre 1 a 3 bultos',
+    'sports_equipment' => 'Equipamiento deportivo sin recargo',
+    'travel_with_pet' => 'Viajar con mascota',
+    'wifi' => 'Wi-Fi',
+    'conditions_note' => '* Cambios de fecha , hora y tarifa sujetos a disponibilidad. En caso de que no haya plazas en la misma tarifa, se debe elegir una tarifa superior, lo que implica pagar la diferencia, siempre y cuando el billete no esté vencido',
+    'consult_conditions' => 'Consulte condiciones',
+    'residence_discounts' => 'para bonificaciones de residencia, de familia numerosa, edad válida para niños y viaje con bebés',
+];
