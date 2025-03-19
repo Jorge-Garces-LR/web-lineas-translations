@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'transfer' => 'Traslado en autocar, ida y vuelta hasta el punto de recogida más cercano a tu hotel',
+    'boat-lg' => 'Ferry de ida y vuelta a La Graciosa con wifi gratis',
+    'boat-fv' => 'Ferry de ida y vuelta a Fuerteventura con wifi gratis',
+    'boat-lz' => 'Ferry de ida y vuelta a Lanzarote con wifi gratis',
+    'boat-wf' => 'Ferry de ida y vuelta a Isla de Lobos',
+    'free-time-fv' => 'Tiempo libre en Fuerteventura',
+    'free-time-lg' => 'Tiempo libre en La Graciosa y Caleta de Sebo',
+    'free-time-wf' => 'Tiempo libre en Isla de Lobos',
+    'catamaran-wf' => 'Ida y vuelta en Catamarán de lujo hacia Isla de Lobos',
+    'anchor-fw' => 'Fondeo cerca de la Playa de La Concha (Lobos)',
+    'guide-fw' => 'Paseo guiado por las la isla de Lobos',
+    'bar' => 'Mojito de bienvenida y pincho de tortilla',
+    'guide' => 'Guía experimentado español, inglés, alemán y francés. Demas idiomas bajo petición y bajo disponibilidad',
+    'travel-insurance' => 'Seguro de viaje',
+    'boat-lunch' => 'Comida: tortilla, deliciosa paella y fruta fresca',
+    'mojito' => 'Mojito de bienvenida',
+    'canapes' => 'Degustación de canapés',
+    'drink' => '1 bebida extra a elegir (cerveza, sangría, agua y refrescos)',
+    'free-drinks' => 'Barra libre de cerveza, sangría, agua y refrescos',
+    'lunch' => 'Almuerzo incluido',
+    'wine' => 'Degustación de vinos',
+    'PNT-access' => 'Entradas a Parque Nacional Timanfaya',
+    'JDA-access' => 'Entradas a Jameos del Agua',
+    'aloe-access' => 'Entrada en el Museo de Aloe Vera',
+];

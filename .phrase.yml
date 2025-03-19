@@ -3,6 +3,103 @@ phrase:
   project_id: dca660bf649a06739d040ffce94c94d3
   push:
     sources:
+    - file: ./api/lang/es/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/services.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/activities.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/emails/bookings/confirmation.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./api/lang/es/emails/bookings/cancellation.php
+      params:
+        file_format: laravel
+        locale_id: es
+
     - file: ./web/lang/es/blog.php
       params:
         file_format: laravel
@@ -137,6 +234,103 @@ phrase:
         locale_id: es
   pull:
     targets:
+    - file: ./api/lang/en/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/services.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/activities.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/emails/bookings/confirmation.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./api/lang/en/emails/bookings/cancellation.php
+      params:
+        file_format: laravel
+        locale_id: en
+
     - file: ./web/lang/en/blog.php
       params:
         file_format: laravel
