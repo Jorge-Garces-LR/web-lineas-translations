@@ -1,0 +1,271 @@
+phrase:
+  access_token: 47489af89b3b5c0ba8a18df4196ecc1b039d5d15e73aae847eae7e46ebf14a30
+  project_id: dca660bf649a06739d040ffce94c94d3
+  push:
+    sources:
+    - file: ./web/lang/es/blog.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/conditions.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/contact.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/cookies.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/excursion.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/excursions.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/gateway.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/journey.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/policy.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/rates.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/response.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/schedule.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/ticket.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/transfers.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/travelers.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/destinations/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/destinations/fuerteventura.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/destinations/lagraciosa.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/destinations/lanzarote.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: es
+    - file: ./web/lang/es/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+  pull:
+    targets:
+    - file: ./web/lang/en/blog.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/conditions.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/contact.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/cookies.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/excursion.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/excursions.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/gateway.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/journey.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/policy.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/rates.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/response.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/schedule.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/ticket.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/transfers.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/travelers.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/destinations/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/destinations/fuerteventura.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/destinations/lagraciosa.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/destinations/lanzarote.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: en
+    - file: ./web/lang/en/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: en
