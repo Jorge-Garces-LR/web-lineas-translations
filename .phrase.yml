@@ -52,278 +52,278 @@ phrase:
     targets:
 
     # German
-    - file: ./api/lang/de/activities.php
+    - file: ./api/lang/fr/activities.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./api/lang/de/mains.php
+    - file: ./api/lang/fr/mains.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./api/lang/de/services.php
+    - file: ./api/lang/fr/services.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./api/lang/de/emails/bookings/cancellation.php
+    - file: ./api/lang/fr/emails/bookings/cancellation.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Emails"
-    - file: ./api/lang/de/emails/bookings/confirmation.php
+    - file: ./api/lang/fr/emails/bookings/confirmation.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Emails"
-    - file: ./api/lang/de/excursions/EDN.php
+    - file: ./api/lang/fr/excursions/EDN.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/ENFU.php
+    - file: ./api/lang/fr/excursions/ENFU.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/FEXB.php
+    - file: ./api/lang/fr/excursions/FEXB.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/GAT.php
+    - file: ./api/lang/fr/excursions/GAT.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/GT.php
+    - file: ./api/lang/fr/excursions/GT.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/ILG.php
+    - file: ./api/lang/fr/excursions/ILG.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/ILOSU.php
+    - file: ./api/lang/fr/excursions/ILOSU.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/ILP.php
+    - file: ./api/lang/fr/excursions/ILP.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LEXB.php
+    - file: ./api/lang/fr/excursions/LEXB.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LOAIR.php
+    - file: ./api/lang/fr/excursions/LOAIR.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LOBYN.php
+    - file: ./api/lang/fr/excursions/LOBYN.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LOBYRN.php
+    - file: ./api/lang/fr/excursions/LOBYRN.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LWT2N.php
+    - file: ./api/lang/fr/excursions/LWT2N.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/LWT2R.php
+    - file: ./api/lang/fr/excursions/LWT2R.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/MEGR.php
+    - file: ./api/lang/fr/excursions/MEGR.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/excursions/VOL.php
+    - file: ./api/lang/fr/excursions/VOL.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Excursions"
-    - file: ./api/lang/de/extras/transfer.php
+    - file: ./api/lang/fr/extras/transfer.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Extras"
-    - file: ./api/lang/de/pdfs/ticket.php
+    - file: ./api/lang/fr/pdfs/ticket.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "PDFs"
-    - file: ./web/lang/de/blog.php
+    - file: ./web/lang/fr/blog.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/conditions.php
+    - file: ./web/lang/fr/conditions.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/contact.php
+    - file: ./web/lang/fr/contact.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/cookies.php
+    - file: ./web/lang/fr/cookies.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/excursion.php
+    - file: ./web/lang/fr/excursion.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/excursions.php
+    - file: ./web/lang/fr/excursions.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/gateway.php
+    - file: ./web/lang/fr/gateway.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/journey.php
+    - file: ./web/lang/fr/journey.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/legal-warning.php
+    - file: ./web/lang/fr/legal-warning.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/main.php
+    - file: ./web/lang/fr/main.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/maintenance.php
+    - file: ./web/lang/fr/maintenance.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/policy.php
+    - file: ./web/lang/fr/policy.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/rates.php
+    - file: ./web/lang/fr/rates.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/response.php
+    - file: ./web/lang/fr/response.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/schedule.php
+    - file: ./web/lang/fr/schedule.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/ticket.php
+    - file: ./web/lang/fr/ticket.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/transfers.php
+    - file: ./web/lang/fr/transfers.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/waterbus.php
+    - file: ./web/lang/fr/waterbus.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Main_files"
-    - file: ./web/lang/de/destinations/fuerteventura.php
+    - file: ./web/lang/fr/destinations/fuerteventura.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Destinations"
-    - file: ./web/lang/de/destinations/lanzarote.php
+    - file: ./web/lang/fr/destinations/lanzarote.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Destinations"
-    - file: ./web/lang/de/destinations/lagraciosa.php
+    - file: ./web/lang/fr/destinations/lagraciosa.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Destinations"
-    - file: ./web/lang/de/destinations/main.php
+    - file: ./web/lang/fr/destinations/main.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Destinations"
-    - file: ./web/lang/de/errors/404.php
+    - file: ./web/lang/fr/errors/404.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Errors"
-    - file: ./web/lang/de/errors/504.php
+    - file: ./web/lang/fr/errors/504.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Errors"
-    - file: ./web/lang/de/includes/floating-menu.php
+    - file: ./web/lang/fr/includes/floating-menu.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Includes"
-    - file: ./web/lang/de/includes/footer.php
+    - file: ./web/lang/fr/includes/footer.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Includes"
-    - file: ./web/lang/de/includes/language.php
+    - file: ./web/lang/fr/includes/language.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Includes"
-    - file: ./web/lang/de/includes/messages.php
+    - file: ./web/lang/fr/includes/messages.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Includes"
-    - file: ./web/lang/de/includes/navbar.php
+    - file: ./web/lang/fr/includes/navbar.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Includes"
-    - file: ./web/lang/de/schedules/lnz-ftv.php
+    - file: ./web/lang/fr/schedules/lnz-ftv.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Schedules"
-    - file: ./web/lang/de/schedules/lnz-lg.php
+    - file: ./web/lang/fr/schedules/lnz-lg.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Schedules"
-    - file: ./web/lang/de/schedules/main.php
+    - file: ./web/lang/fr/schedules/main.php
       params:
         file_format: laravel
-        locale_id: de
+        locale_id: fr
         tags: "Schedules"
