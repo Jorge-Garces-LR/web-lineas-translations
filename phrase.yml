@@ -2,8 +2,7 @@ phrase:
   access_token: 47489af89b3b5c0ba8a18df4196ecc1b039d5d15e73aae847eae7e46ebf14a30
   project_id: dca660bf649a06739d040ffce94c94d3
   file_format: laravel
-  include_translations: true
-
+  
   push:
     sources:
 
