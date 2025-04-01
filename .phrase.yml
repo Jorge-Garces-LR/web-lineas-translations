@@ -6,267 +6,504 @@ phrase:
     sources:
 
     # Spanish
-    - file: ./api/lang/es/*.php
+    - file: ./api/lang/es/activities.php
       params:
         locale_id: es
-        tags: "Main_files"
-    - file: ./api/lang/es/emails/bookings/*.php
+        tags: Main_files
+        update_translations: true
+    - file: ./api/lang/es/mains.php
       params:
         locale_id: es
-        tags: "Emails"
-    - file: ./api/lang/es/excursions/*.php
+        tags: Main_files
+        update_translations: true
+    - file: ./api/lang/es/services.php
       params:
         locale_id: es
-        tags: "Excursions"
-    - file: ./api/lang/es/extras/*.php
+        tags: Main_files
+        update_translations: true
+    - file: ./api/lang/es/emails/bookings/cancellation.php
       params:
         locale_id: es
-        tags: "Extras"
-    - file: ./api/lang/es/pdfs/*.php
+        tags: Emails
+        update_translations: true
+    - file: ./api/lang/es/emails/bookings/confirmation.php
       params:
         locale_id: es
-        tags: "PDFs"
+        tags: Emails
+        update_translations: true
+    - file: ./api/lang/es/excursions/EDN.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/ENFU.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/FEXB.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/GAT.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/GT.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/ILG.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/ILOSU.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/ILP.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LEXB.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LOAIR.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LOBYN.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LOBYRN.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LWT2N.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/LWT2R.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/MEGR.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/excursions/VOL.php
+      params:
+        locale_id: es
+        tags: Excursions
+        update_translations: true
+    - file: ./api/lang/es/extras/transfer.php
+      params:
+        locale_id: es
+        tags: Extras
+        update_translations: true
+    - file: ./api/lang/es/pdfs/ticket.php
+      params:
+        locale_id: es
+        tags: PDFs
+        update_translations: true
+    - file: ./web/lang/de/blog.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/conditions.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/contact.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/cookies.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/excursion.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/excursions.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/gateway.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/journey.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/legal-warning.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/main.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/maintenance.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/policy.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/rates.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/response.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/schedule.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/ticket.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/transfers.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/waterbus.php
+      params:
+        locale_id: es
+        tags: Main_files
+        update_translations: true
+    - file: ./web/lang/de/destinations/fuerteventura.php
+      params:
+        locale_id: es
+        tags: Destinations
+        update_translations: true
+    - file: ./web/lang/de/destinations/lanzarote.php
+      params:
+        locale_id: es
+        tags: Destinations
+        update_translations: true
+    - file: ./web/lang/de/destinations/lagraciosa.php
+      params:
+        locale_id: es
+        tags: Destinations
+        update_translations: true
+    - file: ./web/lang/de/destinations/main.php
+      params:
+        locale_id: es
+        tags: Destinations
+        update_translations: true
+    - file: ./web/lang/de/errors/404.php
+      params:
+        locale_id: es
+        tags: Errors
+        update_translations: true
+    - file: ./web/lang/de/errors/504.php
+      params:
+        locale_id: es
+        tags: Errors
+        update_translations: true
+    - file: ./web/lang/de/includes/floating-menu.php
+      params:
+        locale_id: es
+        tags: Includes
+        update_translations: true
+    - file: ./web/lang/de/includes/footer.php
+      params:
+        locale_id: es
+        tags: Includes
+        update_translations: true
+    - file: ./web/lang/de/includes/language.php
+      params:
+        locale_id: es
+        tags: Includes
+        update_translations: true
+    - file: ./web/lang/de/includes/messages.php
+      params:
+        locale_id: es
+        tags: Includes
+        update_translations: true
+    - file: ./web/lang/de/includes/navbar.php
+      params:
+        locale_id: es
+        tags: Includes
+        update_translations: true
+    - file: ./web/lang/de/schedules/lnz-ftv.php
+      params:
+        locale_id: es
+        tags: Schedules
+        update_translations: true
+    - file: ./web/lang/de/schedules/lnz-lg.php
+      params:
+        locale_id: es
+        tags: Schedules
+        update_translations: true
+    - file: ./web/lang/de/schedules/main.php
+      params:
+        locale_id: es
+        tags: Schedules
+        update_translations: true
 
-    - file: ./web/lang/es/*.php
-      params:
-        locale_id: es
-        tags: "Main_files"
-    - file: ./web/lang/es/destinations/*.php
-      params:
-        locale_id: es
-        tags: "Destinations"
-    - file: ./web/lang/es/errors/*.php
-      params:
-        locale_id: es
-        tags: "Errors"
-    - file: ./web/lang/es/includes/*.php
-      params:
-        locale_id: es
-        tags: "Includes"
-    - file: ./web/lang/es/schedules/*.php
-      params:
-        locale_id: es
-        tags: "Schedules"
 
   pull:
     targets:
+
+    # German
     - file: ./api/lang/de/activities.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./api/lang/de/mains.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./api/lang/de/services.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./api/lang/de/emails/bookings/cancellation.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Emails"
+        locale_id: de
+        tags: Emails
     - file: ./api/lang/de/emails/bookings/confirmation.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Emails"
+        locale_id: de
+        tags: Emails
     - file: ./api/lang/de/excursions/EDN.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/ENFU.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/FEXB.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/GAT.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/GT.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/ILG.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/ILOSU.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/ILP.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LEXB.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LOAIR.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LOBYN.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LOBYRN.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LWT2N.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/LWT2R.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/MEGR.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/excursions/VOL.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Excursions"
+        locale_id: de
+        tags: Excursions
     - file: ./api/lang/de/extras/transfer.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Extras"
+        locale_id: de
+        tags: Extras
     - file: ./api/lang/de/pdfs/ticket.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "PDFs"
+        locale_id: de
+        tags: PDFs
     - file: ./web/lang/de/blog.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/conditions.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/contact.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/cookies.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/excursion.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/excursions.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/gateway.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/journey.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/legal-warning.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/main.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/maintenance.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/policy.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/rates.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/response.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/schedule.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/ticket.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/transfers.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/waterbus.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Main_files"
+        locale_id: de
+        tags: Main_files
     - file: ./web/lang/de/destinations/fuerteventura.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Destinations"
+        locale_id: de
+        tags: Destinations
     - file: ./web/lang/de/destinations/lanzarote.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Destinations"
+        locale_id: de
+        tags: Destinations
     - file: ./web/lang/de/destinations/lagraciosa.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Destinations"
+        locale_id: de
+        tags: Destinations
     - file: ./web/lang/de/destinations/main.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Destinations"
+        locale_id: de
+        tags: Destinations
     - file: ./web/lang/de/errors/404.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Errors"
+        locale_id: de
+        tags: Errors
     - file: ./web/lang/de/errors/504.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Errors"
+        locale_id: de
+        tags: Errors
     - file: ./web/lang/de/includes/floating-menu.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Includes"
+        locale_id: de
+        tags: Includes
     - file: ./web/lang/de/includes/footer.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Includes"
+        locale_id: de
+        tags: Includes
     - file: ./web/lang/de/includes/language.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Includes"
+        locale_id: de
+        tags: Includes
     - file: ./web/lang/de/includes/messages.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Includes"
+        locale_id: de
+        tags: Includes
     - file: ./web/lang/de/includes/navbar.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Includes"
+        locale_id: de
+        tags: Includes
     - file: ./web/lang/de/schedules/lnz-ftv.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Schedules"
+        locale_id: de
+        tags: Schedules
     - file: ./web/lang/de/schedules/lnz-lg.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Schedules"
+        locale_id: de
+        tags: Schedules
     - file: ./web/lang/de/schedules/main.php
       params:
-        locale_id: e52b70f562b92a165ac3e07fadf322c8
-        tags: "Schedules"
+        locale_id: de
+        tags: Schedules
