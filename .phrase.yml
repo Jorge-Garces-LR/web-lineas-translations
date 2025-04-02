@@ -14,7 +14,7 @@ phrase:
         update_translations: true
         tags: "api_activities"
 
-    - file: ./api/lang/es/mains.php
+    - file: ./api/lang/es/main.php
       params:
         file_format: laravel
         locale_id: es
@@ -412,7 +412,7 @@ phrase:
         update_translations: true
         tags: "api_activities"
 
-    - file: ./api/lang/en/mains.php
+    - file: ./api/lang/en/main.php
       params:
         file_format: laravel
         locale_id: en
@@ -807,7 +807,7 @@ phrase:
         update_translations: true
         tags: "api_activities"
 
-    - file: ./api/lang/de/mains.php
+    - file: ./api/lang/de/main.php
       params:
         file_format: laravel
         locale_id: de
@@ -1201,7 +1201,7 @@ phrase:
         update_translations: true
         tags: "api_activities"
 
-    - file: ./api/lang/fr/mains.php
+    - file: ./api/lang/fr/main.php
       params:
         file_format: laravel
         locale_id: fr
