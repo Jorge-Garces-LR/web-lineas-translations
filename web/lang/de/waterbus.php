@@ -29,6 +29,8 @@ return [
 	"route_title" => "Puerto del Carmen - Puerto Calero",
 	"schedules" => "ZEITPLÄNE",
 	"thank_you" => "VIELEN DANK FÜR IHRE BUCHUNG",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"traveler" => "Reisender",
 	"trip_type" => "Art der Reise",
 	"trip_type_option_1" => "Hin- und Rückfahrt",

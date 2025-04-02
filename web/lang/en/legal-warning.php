@@ -49,4 +49,5 @@ Access to the website implies the User's express acceptance of these General Ter
 	"section_8_content_1" => "This Legal Notice and its terms and conditions will be governed by and interpreted in accordance with Spanish Legislation. The user, by simply accessing the website or obtaining the status of a registered user, irrevocably gives their consent for the competent courts by default to hear any legal action arising from or related to these terms, or their use of this site or browsing carried out on it.",
 	"section_8_content_2" => "If any clause or section of these General Terms and Conditions, which is not essential to its existence, is declared null or unenforceable, the validity of the remaining clauses will not be affected.",
 	"section_8_title" => "8.- Legislation.",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

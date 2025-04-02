@@ -13,4 +13,5 @@ return [
 	"lanzarote_text" => "Trouvez votre destination idéale sur une île pleine de magie et de volcans.",
 	"lanzarote_title" => "Lanzarote",
 	"subtitle" => "VIVEZ UNE EXPÉRIENCE ADAPTÉE À VOTRE RYTHME",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

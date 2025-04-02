@@ -19,4 +19,6 @@ return [
 	"intro_paragraph_3" => "Der Bus von Líneas Romero ist auf den ersten Blick zu erkennen und steht außerhalb des Ankunftsbereichs des Flughafens.",
 	"intro_paragraph_4" => "Bei der Ankunft in Órzola parkt der Bus vor dem Einstiegsbereich des Hafens.",
 	"keywords" => "Líneas Romero Geschichte Federico Romero",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 ];

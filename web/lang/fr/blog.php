@@ -11,4 +11,5 @@ return [
 ",
 	"section_description" => "La tradition et l'innovation sont les deux principaux piliers de l'identité de Líneas Romero. Nous sommes une entreprise familiale dédiée au secteur de la navigation qui relit les îles les plus orientales des Canaries depuis 1930.",
 	"section_title" => "DÉCOUVREZ L'HISTOIRE DE LÍNEAS ROMERO",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

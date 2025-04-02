@@ -14,4 +14,5 @@ return [
 	"retry_payment" => "Retry payment",
 	"sorry_for_inconvenience" => "Sorry for the inconvenience",
 	"thank_you" => "THANK YOU FOR YOUR BOOKING",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

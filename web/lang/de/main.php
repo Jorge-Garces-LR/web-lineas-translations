@@ -6,4 +6,6 @@ return [
 	"exc_btn" => "GENIESS ES",
 	"keywords" => "Líneas Romero Geschichte Federico Romero",
 	"seniors" => "Senioren (über 60 Jahre)",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 ];

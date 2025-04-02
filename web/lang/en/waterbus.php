@@ -35,6 +35,7 @@ return [
 	"route_title" => "Puerto del Carmen - Puerto Calero",
 	"schedules" => "SCHEDULES",
 	"thank_you" => "THANK YOU FOR YOUR BOOKING",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"traveler" => "Passenger",
 	"trip_type" => "Type of trip
 ",

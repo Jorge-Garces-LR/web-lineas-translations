@@ -74,5 +74,6 @@ return [
 	"surfboards" => "SURF BOARDS",
 	"ticket_office_or_direct_boarding" => "DO I NEED TO GO TO THE TICKET OFFICE, OR CAN I BOARD THE FERRY DIRECTLY?",
 	"ticket_office_or_direct_boarding_description" => "All passengers of Líneas Romero can board directly if they have a boarding pass, except for those with: Canary Resident Discount not verified online by the Ministry of Development. Required Documentation: Valid Certificate of Residency/Travel/Registration, DNI/Passport/NIE. General Large Family Discount or Special Large Family Discount. Required Documentation: Large Family Card, DNI/Passport/NIE.",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"up_to_20kg" => "UP TO 20KG",
 ];

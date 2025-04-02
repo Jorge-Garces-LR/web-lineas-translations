@@ -43,5 +43,7 @@ return [
 	"surfboards" => "SURFBRETTER",
 	"ticket_office_or_direct_boarding" => "MUSS ICH DURCH DEN FAHRKARTENSCHALTER GEHEN ODER KANN ICH DIREKT AN BORD DER FÄHRE GEHEN?",
 	"ticket_office_or_direct_boarding_description" => "Alle Passagiere von Líneas Romero können direkt an Bord gehen, wenn sie eine Bordkarte besitzen, mit Ausnahme derjenigen, die Folgendes haben: Kanarische Ermäßigung für Einwohner, die nicht online vom spanischen Verkehrsministerium überprüft wurde. Erforderliche Unterlagen: Gültige Bescheinigung über Wohnsitz/Reise/Meldung, Personalausweis/Reisepass/NIE. Ermäßigung für Großfamilien (Allgemein oder Spezial). Erforderliche Dokumentation: Großfamilienausweis, Personalausweis (DNI), Reisepass oder NIE.",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"up_to_20kg" => "BIS 20 KG",
 ];

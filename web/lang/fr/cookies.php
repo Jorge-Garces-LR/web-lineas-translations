@@ -57,4 +57,5 @@ return [
 	"section8_content3" => "Ces cookies sont gérés et contrôlés par des tiers, dans le but de fournir des fonctionnalités, d'analyser la navigation, de personnaliser la navigation et les recherches, ainsi que de diffuser de la publicité ciblée.",
 	"section8_title" => "Information détaillée sur les cookies utilisés pour ce site web",
 	"subheading" => "POLITIQUE DE COOKIES ET STOCKAGE LOCAL",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

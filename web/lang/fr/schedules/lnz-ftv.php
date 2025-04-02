@@ -13,5 +13,6 @@ return [
 ",
 	"our_route" => "Notre itinéraire",
 	"schedule_note" => "* Horaire soumis à des modifications pour des raisons opérationnelles",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"view_map" => "VOIR SUR LA CARTE",
 ];

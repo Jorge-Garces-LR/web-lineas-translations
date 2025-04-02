@@ -8,4 +8,5 @@ return [
 
 ",
 	"seniors" => "Seniors (+60 years)",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

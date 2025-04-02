@@ -20,4 +20,5 @@ return [
 	"intro_paragraph_4" => "À votre arrivée à Órzola, le bus se stationnera en face de la zone d'embarquement du port.",
 	"keywords" => "Líneas Romero histoire Federico Romero
 ",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

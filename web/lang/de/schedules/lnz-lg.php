@@ -10,5 +10,7 @@ return [
 	"reserve" => "Buche deine Reise mit Líneas Romero und entdecke die natürliche Schönheit von La Graciosa. Wir freuen uns darauf, dich bald an Bord begrüßen zu dürfen!",
 	"reserve_button" => "BUCHEN",
 	"schedule_notice" => "* Fahrplanänderungen aus betrieblichen Gründen vorbehalten",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"view_map_button" => "AUF DER KARTE ANZEIGEN",
 ];

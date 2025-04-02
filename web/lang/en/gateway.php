@@ -34,6 +34,7 @@ return [
 	"return_price" => "Return fare",
 	"selection" => "SELECTION",
 	"state_subsidy" => "State discount",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"total" => "TOTAL",
 	"transfer_amount" => "Cost",
 	"transfer_info" => "Transfer Information",

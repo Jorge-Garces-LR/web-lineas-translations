@@ -46,4 +46,6 @@ return [
 	"section_8_content_1" => "Dieser rechtliche Hinweis und seine Bedingungen unterliegen dem spanischen Recht und werden in Übereinstimmung mit diesem ausgelegt. Allein durch den Zugriff auf die Website oder das Erlangen des Status eines registrierten Nutzers erteilt der Nutzer unwiderruflich seine Zustimmung dazu, dass die zuständigen Gerichte standardmäßig in der Lage sind, über alle rechtlichen Schritte zu entscheiden, die sich aus diesen Bedingungen ergeben oder damit zusammenhängen, oder dass er diese Website oder die über sie durchgeführte Navigation nutzt.",
 	"section_8_content_2" => "Sollte eine Klausel oder ein Abschnitt dieser Allgemeinen Geschäftsbedingungen, die für das Bestehen derselben nicht wesentlich sind, für nichtig oder nicht durchsetzbar erklärt werden, wird die Gültigkeit der übrigen Klauseln nicht berührt.",
 	"section_8_title" => "8.- Gesetzgebung.",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 ];

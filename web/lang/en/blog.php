@@ -13,4 +13,5 @@ return [
 ",
 	"section_description" => "Tradition and innovation are the two main hallmarks of Líneas Romero. A family-owned company dedicated to the maritime sector, connecting the easternmost Canary Islands since 1930.",
 	"section_title" => "DISCOVER THE HISTORY OF LÍNEAS ROMERO",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

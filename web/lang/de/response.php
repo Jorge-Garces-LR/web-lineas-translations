@@ -12,4 +12,6 @@ return [
 	"retry_payment" => "Zahlung wiederholen",
 	"sorry_for_inconvenience" => "Entschuldigen Sie die Unannehmlichkeiten",
 	"thank_you" => "VIELEN DANK FÜR IHRE BUCHUNG",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 ];

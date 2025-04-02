@@ -14,4 +14,5 @@ return [
 	"lanzarote_text" => "Find your ideal destination on an island full of magic and volcanoes.",
 	"lanzarote_title" => "Lanzarote",
 	"subtitle" => "ENJOY AN EXPERIENCE AT YOUR OWN PACE",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

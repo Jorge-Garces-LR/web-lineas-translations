@@ -14,5 +14,6 @@ return [
 ",
 	"our_route" => "Our route",
 	"schedule_note" => "*Timetable subject to changes due to operational reasons",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"view_map" => "VIEW MAP",
 ];

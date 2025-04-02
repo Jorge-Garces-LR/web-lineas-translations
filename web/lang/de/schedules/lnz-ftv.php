@@ -12,5 +12,7 @@ return [
 	"keywords" => "Líneas Romero Geschichte Federico Romero",
 	"our_route" => "Unsere Route",
 	"schedule_note" => "* Fahrplanänderungen aus betrieblichen Gründen vorbehalten",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"view_map" => "AUF DER KARTE ANZEIGEN",
 ];

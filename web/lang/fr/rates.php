@@ -23,6 +23,7 @@ return [
 	"round_trip" => "ALLER-RETOUR",
 	"sports_equipment" => "Équipement sportif sans frais",
 	"standard_rate" => "Tarif standard",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"travel_with_pet" => "Voyager avec un animal",
 	"unlimited_changes" => "Modifications de date et d'heure sans frais (illimités, sans restriction de temps)*",
 	"wifi" => "Wi-Fi",

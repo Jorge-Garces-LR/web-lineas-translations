@@ -30,6 +30,7 @@ return [
 	"route_title" => "Puerto del Carmen - Puerto Calero",
 	"schedules" => "HORAIRES",
 	"thank_you" => "MERCI POUR VOTRE RÉSERVATION",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"traveler" => "Passager",
 	"trip_type" => "Type de voyage",
 	"trip_type_option_1" => "Aller-retour",

@@ -12,5 +12,6 @@ return [
 	"reserve" => "Book your trip with Líneas Romero and discover the natural beauty of La Graciosa. We look forward to welcoming you aboard!",
 	"reserve_button" => "BOOK",
 	"schedule_notice" => "*Timetable subject to changes due to operational reasons",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"view_map_button" => "SEE MAP",
 ];

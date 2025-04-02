@@ -61,4 +61,5 @@ return [
 	"section8_content3" => "They are cookies managed and controlled by third parties, with the purpose of providing functionalities, conducting browsing analysis, personalising browsing and searches, as well as targeted advertising.",
 	"section8_title" => "Detailed information about the cookies used on this website",
 	"subheading" => "COOKIES AND LOCAL STORAGE POLICY",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 ];

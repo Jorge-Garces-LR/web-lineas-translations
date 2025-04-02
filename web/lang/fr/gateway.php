@@ -30,6 +30,7 @@ return [
 	"return_price" => "Prix du retour",
 	"selection" => "SÉLECTION",
 	"state_subsidy" => "Réduction de l'État",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"total" => "TOTAL",
 	"transfer_amount" => "Coût",
 	"transfer_info" => "Information sur les transferts",

@@ -29,6 +29,8 @@ return [
 	"return_price" => "Preis Rückfahrt",
 	"selection" => "AUSWAHL",
 	"state_subsidy" => "Staatl. Förderung",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"total" => "GESAMT",
 	"transfer_amount" => "Preis",
 	"transfer_info" => "Informationen zu Transfers",

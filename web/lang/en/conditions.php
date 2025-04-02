@@ -50,5 +50,6 @@ return [
 	"regular_line_graciosa_email" => "REGULAR LINE ÓRZOLA–LA GRACIOSA: info@lineasromero.com",
 	"regular_line_transfers" => "Regular line + Transfers:",
 	"regular_line_weather_conditions" => "If the crossing cannot take place due to weather conditions, the company will accept no further liability beyond the obligation to refund the ticket price.",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"travel_date" => "Travel date",
 ];

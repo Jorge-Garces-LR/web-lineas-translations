@@ -47,5 +47,6 @@ C) le NIE où il est clairement spécifié « délivré en vertu de l'article 18
 	"surfboards" => "PLANCHES DE SURF",
 	"ticket_office_or_direct_boarding" => "DOIS-JE PASSER PAR LE GUICHET OU PUIS-JE EMBARQUER DIRECTEMENT SUR LE FERRY ?",
 	"ticket_office_or_direct_boarding_description" => "Tous les passagers de Líneas Romero peuvent embarquer directement s'ils disposent d'une carte d'embarquement, à l'exception de ceux qui bénéficient de : la réduction de résident canarien non vérifiée en ligne par le ministère des Transports (Fomento). Documents requis : certificat de résidence/voyage/recensement valide, pièce d'identité/passeport/NIE. La réduction pour famille nombreuse générale ou spéciale. Documents requis : carte de famille nombreuse, pièce d'identité/passeport/NIE. ",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"up_to_20kg" => "JUSQU'À 20 KG",
 ];

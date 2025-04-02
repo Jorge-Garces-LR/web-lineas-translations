@@ -22,6 +22,8 @@ return [
 	"round_trip" => "HIN- UND RÜCKFAHRT",
 	"sports_equipment" => "Kostenlose Sportausrüstung",
 	"standard_rate" => "Normaler Tarif",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"travel_with_pet" => "Reisen mit Haustier",
 	"unlimited_changes" => "Datums- und Zeitänderungen kostenlos (unbegrenzt, keine zeitliche Beschränkung)*",
 	"wifi" => "WLAN",

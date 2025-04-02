@@ -25,6 +25,8 @@ return [
 	"text-7" => "Mit atemberaubendem Blick auf den Leuchtturm von Tostón sind die Strände von El Cotillo ein Muss. Der Strand von La Concha ist der bekannteste in dieser Gegend, mit einer weiten Fläche aus weißem Sand und mehreren Riffen, die ihn schützen und das Tauchen zu einem wahren Erlebnis machen. <br><br> Hervorzuheben ist auch El Caletón, das verschiedene Buchten mit weißem Sand aufweist und je nach Gezeiten den schwarzen Vulkanstein zum Vorschein bringt, der einen Kontrast bildet und ihm seine besondere Schönheit verleiht.",
 	"text-8" => "Jandía steht der Karibik nichts nach. Der feine weiße Sand und das intensive Blau des Wassers machen sie zu einem wahren Paradies. Besonders hervorzuheben ist der Playa del Matorral, der sich im Ort Morro Jable befindet, einem der touristischsten Gebiete von Fuerteventura. Es handelt sich um 4 Kilometer Strand, umgeben von Hotels und Geschäften, die der Promenade viel Leben verleihen. <br><br> Die Playa de Sotavento ist besonders bekannt für das Bild, das sie bietet, mit den Drachen der Windsurf-Liebhaber und den Segeln der Kitesurfer, die in ihrem kristallklaren Wasser ihre Runden drehen.",
 	"text-9" => "Zweifellos ist es eines der Wahrzeichen von Fuerteventura, aufgrund seiner spektakulären Landschaft und der Länge seines Strandes, der nicht weniger als 12 Kilometer misst. Mit dem Gebirgsmassiv von Jandía im Hintergrund ist es ein unberührtes Gebiet, das niemanden gleichgültig lässt, der daran vorbeikommt.",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
+",
 	"title-1" => "FUERTEVENTURA",
 	"title-10" => "Isla de Lobos",
 	"title-11" => "Versteckte Schätze auf Fuerteventura",

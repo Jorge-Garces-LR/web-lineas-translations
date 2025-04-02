@@ -13,4 +13,5 @@ return [
 	"retry_payment" => "Retenter le paiement",
 	"sorry_for_inconvenience" => "Veuillez nous en excuser",
 	"thank_you" => "MERCI POUR VOTRE RÉSERVATION",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

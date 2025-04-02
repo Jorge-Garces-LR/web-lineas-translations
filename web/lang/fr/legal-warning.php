@@ -47,4 +47,5 @@ Avda. Virgen del Mar, nº119, La Graciosa, 35540, Lanzarote
 	"section_8_content_1" => "Les présentes mentions légales, ainsi que leurs termes et conditions, seront régies et interprétées conformément à la législation espagnole. L'utilisateur, par le seul fait d'accéder au site web ou d'obtenir le statut d'utilisateur inscrit, donne de manière irrévocable son consentement pour que les tribunaux compétents par défaut puissent se prononcer sur toute action judiciaire découlant de ou liée à ces conditions, ou à son utilisation de ce site ou à la navigation effectuée sur celui-ci.",
 	"section_8_content_2" => "Si une clause ou un article des présentes conditions générales, qui n'est pas d'une nature essentielle à l'existence de celles-ci, est déclaré nul ou inapplicable, la validité des autres clauses ne sera pas affectée.",
 	"section_8_title" => "8.- Législation.",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

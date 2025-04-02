@@ -6,4 +6,5 @@ return [
 	"keywords" => "Líneas Romero histoire Federico Romero
 ",
 	"subtitle" => "VIVEZ UNE EXPÉRIENCE ADAPTÉE À VOTRE RYTHME",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

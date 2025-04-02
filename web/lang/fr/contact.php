@@ -16,4 +16,5 @@ return [
 	"office_hours" => "LUN - VEN 09 : 00 - 18 : 00",
 	"phone" => "Téléphone +34 928 59 61 07",
 	"ticket_locations" => "EMPLACEMENT DES GUICHETS",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];

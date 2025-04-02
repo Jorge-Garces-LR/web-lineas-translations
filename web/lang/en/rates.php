@@ -24,6 +24,7 @@ return [
 	"round_trip" => "RETURN",
 	"sports_equipment" => "Sports equipment at no extra charge",
 	"standard_rate" => "Standard fare",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"travel_with_pet" => "Travelling with a pet",
 	"unlimited_changes" => "Date and time changes without surcharge (unlimited, with no time restrictions)*",
 	"wifi" => "Wi-Fi",

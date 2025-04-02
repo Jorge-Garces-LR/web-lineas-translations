@@ -10,5 +10,6 @@ return [
 	"lanzarote_lg_text" => "Enjoy a comfortable boat journey between Lanzarote and La Graciosa",
 	"lanzarote_lg_title" => "Lanzarote - La Graciosa",
 	"subheading" => "COOKIES AND LOCAL STORAGE POLICY",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"view_schedules" => "SEE SCHEDULES",
 ];

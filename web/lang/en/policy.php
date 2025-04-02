@@ -83,5 +83,6 @@ Email: lopd@lineasromero.com",
 	"revisar" => "We recommend reviewing it, and if you have registered and access your account or profile, you will be informed of any changes.",
 	"seguridad" => "What security measures do we apply?",
 	"seguridad_info" => "You can rest assured: We have adopted an optimal level of protection for the personal data we handle, and have implemented all the technical means and measures available to us according to the state of technology to prevent the loss, misuse, alteration, unauthorised access, and theft of personal data.",
+	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",
 	"transferencias" => "International data transfers may occur when using American applications. However, these transfers will be made to entities that have demonstrated compliance with the required level of protection and guarantees in accordance with the parameters and requirements outlined in the current data protection regulations, such as the European Regulation, or when there is a legal authorisation to carry out the international transfer.",
 ];

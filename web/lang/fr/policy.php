@@ -78,5 +78,6 @@ return [
 	"revisar" => "Nous vous recommandons de la consulter régulièrement, et si vous êtes inscrit et accédez à votre compte ou profil, vous serez informé des modifications.",
 	"seguridad" => "Quelles mesures de sécurité appliquons-nous ?",
 	"seguridad_info" => "Soyez rassuré : nous avons mis en place un niveau optimal de protection des données personnelles que nous traitons, et avons installé tous les moyens et mesures techniques à notre disposition, en fonction des progrès technologiques, pour éviter la perte, l'utilisation abusive, l'altération, l'accès non autorisé et le vol des données personnelles.",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"transferencias" => "Des transferts internationaux de données peuvent avoir lieu lorsqu'on utilise des applications américaines. Toutefois, ces transferts ne se feront qu'avec des entités ayant prouvé qu'elles respectent le niveau de protection et les garanties conformément aux paramètres et exigences de la législation en vigueur en matière de protection des données, comme le règlement européen, ou lorsque cela est autorisé par une base légale permettant le transfert international.",
 ];

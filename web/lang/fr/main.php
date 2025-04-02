@@ -7,4 +7,5 @@ return [
 	"keywords" => "Líneas Romero histoire Federico Romero
 ",
 	"seniors" => "séniors (+ 60 ans)",
+	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 ];
