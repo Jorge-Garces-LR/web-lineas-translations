@@ -1,0 +1,33 @@
+<?php
+return [
+	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
+	"heading-text" => "EXPLORE THE OLDEST ISLAND <br> OF THE CANARIES",
+	"keywords" => "líneas romero history federico romero
+
+",
+	"text-1" => "If there is one island in the Canary Archipelago that rivals the Caribbean, it's Fuerteventura. Its golden sandy beaches and emerald waters captivate everyone who arrives. With Líneas Romero, you can travel to Fuerteventura from Lanzarote on our fast ferry, which takes only 30 minutes. Want to know everything that awaits you on this wonderful island? Don't miss its history, beaches, and the best hidden corners of Fuerteventura.",
+	"text-10" => "In just half an hour by boat, you can discover this magnificent spot. Lobos Island has two beaches: La Concha, with views of the Corralejo dunes, is a peaceful bay that is protected from the waves. On the other side, there is the Puertito de Lobos, where the contrast between the emerald green of the water, the dark volcanic rock, and the beige color of the dock's wooden structure will captivate you.",
+	"text-11" => "If you’re someone who enjoys getting off the beaten path, in Fuerteventura you’ll find some hidden spots that are truly breathtaking.",
+	"text-2" => "Fuerteventura is a unique and captivating island that leaves no one indifferent. It is the closest Canary Island to Africa and the second largest, after Tenerife, with an area of 1,659 km² and 150 kilometers of beaches washed by the Atlantic Ocean. Its beauty is protected; it is a territory designated as a Biosphere Reserve and Starlight Reserve by UNESCO. If you want to discover it, Líneas Romero offers a regular ferry service that connects Lanzarote and Fuerteventura in just half an hour. <br><br> The island enjoys a dream climate, with more than 300 days of sunshine a year and exceptionally low rainfall. Fuerteventura's climate is arid, with areas that belong to both desert and subtropical arid climates. Furthermore, the wind and wave conditions make it perfect for sports enthusiasts such as surfing, windsurfing, and kitesurfing. <br><br> Without a doubt, it is a desert jewel, but with miles of paradisiacal beaches with white or golden sand and turquoise waters that enchant everyone who visits.",
+	"text-3" => "The origin of Fuerteventura is estimated to be around 1,000 BC, with the arrival of the \"majos,\" the first people to settle on the island, who were engaged in agriculture, livestock farming, and fishing. The name comes from the Guanche term \"majo,\" which meant \"rustic footwear.\" <br><br> The island's name has changed over time. During the period of the \"majos\" arrival, it was known as Herbania, with the territory divided into two kingdoms: Maxorata to the north and Jandía to the south. During the Roman occupation, it was called Planaria due to the island's flat geography, and Capraria, due to the large number of goats that inhabited the area. <br><br> It was in 1402 when Jean Bethencourt and Gadifer de la Salle began their expeditions to Fuerteventura. It wasn’t until 1405 that the territory became part of the Kingdom of Castile. Subsequently, attacks by barbarians and pirates became a regular occurrence on the island.",
+	"text-4" => "From a geological perspective, it is the oldest island in the Canary Islands, formed millions of years ago. Today, it has a gentle relief due to erosion, although recent volcanic activity, around 100,000 years ago, has left vast fields of rough lava, known as malpaíses. <br><br> The highest elevation of Fuerteventura is Pico de la Zarza, at an altitude of 807 meters, located in the Jandía Peninsula, in the southern part of the island. To the northeast, just under 2 km away, is a small islet, Lobos Island, which belongs to Fuerteventura and covers an area of 4.58 km².",
+	"text-5" => "The beaches are undoubtedly the main attraction of Fuerteventura. From north to south, its kilometres of white sand beaches and turquoise waters make them enchanting. More frequented, more secluded, more wild... the island has beaches for all tastes.",
+	"text-6" => "The Corralejo Natural Park, located in the north of Fuerteventura, is one of the most visited places on the island. Additionally, it is home to some of the best beaches with fine white sand and emerald green waters, stretching over approximately eight kilometres. <br><br> In this area, you can find beaches such as Playa del Burro or Playa del Bajo Negro, which offer all kinds of services and amenities due to the nearby hotels; or Playa del Médano, which is perfect for windsurfing or kitesurfing, thanks to the wind currents generated in this area.",
+	"text-7" => "With stunning views of the Tostón Lighthouse, the beaches of El Cotillo are a must-visit. Playa de La Concha is the most well-known beach in this area, with a vast stretch of white sand and several reefs that protect it, making it a true wonder for diving. <br><br> Also worth mentioning is El Caletón, which features various coves with white sand, and depending on the tide, the black volcanic rocks are exposed, creating a striking contrast and giving the area its unique beauty.",
+	"text-8" => "Jandía has nothing to envy the Caribbean. Its fine white sand and the intense blue of its waters make it a true paradise. Among them, Playa del Matorral stands out, located in the town of Morro Jable, one of the most touristy areas of Fuerteventura. It is a 4-kilometre beach surrounded by hotels and shops, which bring great life to its avenue. <br><br> Playa de Sotavento is well known for its scene filled with kites from windsurfing enthusiasts and the sails of those practicing kitesurfing in its crystal-clear waters.",
+	"text-9" => "Without a doubt, it is one of the symbols of Fuerteventura due to the spectacular nature of its landscape and the length of its beach, which stretches for no less than 12 kilometers. With the Jandía mountain range behind it, it is a pristine space that leaves an impression on everyone who passes through it.",
+	"title-1" => "FUERTEVENTURA",
+	"title-10" => "Lobos Island",
+	"title-11" => "Hidden gems in Fuerteventura
+
+
+",
+	"title-2" => "A sea of dunes to discover in Fuerteventura",
+	"title-3" => "The origin of Fuerteventura",
+	"title-4" => "Geology of the island",
+	"title-5" => "The paradise beaches of Fuerteventura",
+	"title-6" => "Corralejo",
+	"title-7" => "El Cotillo",
+	"title-8" => "Jandía Beaches",
+	"title-9" => "Cofete Beaches",
+];

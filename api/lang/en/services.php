@@ -1,0 +1,28 @@
+<?php
+return [
+	"aloe-access" => "Ticket to Aloe Vera Museum",
+	"anchor-fw" => "Anchorage near La Concha Beach (Lobos)",
+	"bar" => "Welcome mojito and tortilla tapa",
+	"boat-fv" => "Round-trip ferry to Fuerteventura with free Wi-Fi",
+	"boat-lg" => "Round-trip ferry to La Graciosa with free Wi-Fi
+",
+	"boat-lunch" => "Food: tortilla, delicious paella, and fresh fruit",
+	"boat-lz" => "Round-trip ferry to Lanzarote with free Wi-Fi",
+	"boat-wf" => "Round-trip ferry to Isla de Lobos",
+	"canapes" => "Canapés tasting",
+	"catamaran-wf" => "Round-trip luxury catamaran to Lobos Island",
+	"drink" => "1 extra drink to choose from (beer, sangria, water, and soft drinks)",
+	"free-drinks" => "Unlimited beer, sangria, water, and soft drinks",
+	"free-time-fv" => "Free time in Fuerteventura",
+	"free-time-lg" => "Free time in La Graciosa and Caleta de Sebo",
+	"free-time-wf" => "Free time in Isla de Lobos",
+	"guide" => "Experienced guide in Spanish, English, German, and French. Other languages available upon request and subject to availability.",
+	"guide-fw" => "Guided tour of Lobos Island",
+	"JDA-access" => "Tickets to Jameos del Agua",
+	"lunch" => "Lunch included",
+	"mojito" => "Welcome mojito",
+	"PNT-access" => "Tickets to Timanfaya National Park",
+	"transfer" => "Coach transfer, round trip to the nearest pick-up point to your hotel",
+	"travel-insurance" => "Travel insurance",
+	"wine" => "Wine tasting",
+];

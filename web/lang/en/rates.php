@@ -1,0 +1,30 @@
+<?php
+return [
+	"adult" => "ADULT",
+	"cancellation_policy" => "You can cancel a booking for regular lines or excursions. In cases of delays and/or cancellations, we operate in accordance with EU Regulation 1177/2010.",
+	"child" => "CHILD",
+	"conditions_note" => "Changes to date, time, and fare are subject to availability. If there are no seats available on the same fare, a higher fare must be selected, which involves paying the difference, as long as the ticket has not expired.",
+	"consult_conditions" => "Check conditions",
+	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
+	"important_notice" => "IMPORTANT NOTICE",
+	"keywords" => "líneas romero history federico romero
+
+",
+	"lanzarote_la_graciosa" => "LANZAROTE - LA GRACIOSA",
+	"luggage_policy" => "Allowed luggage per person: a maximum of 20kg, distributed between 1 to 3 pieces.",
+	"mini_rate" => "Mini rate",
+	"new" => "* NEW",
+	"new_rates_info" => "We inform you that from March 15th, the Órzola - La Graciosa route will have new fares, detailed below:",
+	"non_residents" => "NON RESIDENTS",
+	"one_way" => "OUTWARD",
+	"open_dates_ticket" => "Open-dated ticket",
+	"optimal_rate" => "Optimum rate",
+	"residence_discounts" => "For residence discounts, large family discounts, valid age for children, and travel with babies",
+	"residents" => "RESIDENTS",
+	"round_trip" => "RETURN",
+	"sports_equipment" => "Sports equipment at no extra charge",
+	"standard_rate" => "Standard fare",
+	"travel_with_pet" => "Travelling with a pet",
+	"unlimited_changes" => "Date and time changes without surcharge (unlimited, with no time restrictions)*",
+	"wifi" => "Wi-Fi",
+];
