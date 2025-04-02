@@ -5,70 +5,1584 @@ phrase:
   push:
     sources:
 
-    # Spanish
-    - file: ./api/lang/es/*.php
-      params:
-        locale_id: es
-        tags: "Main files"
-    - file: ./api/lang/es/emails/bookings/*.php
-      params:
-        locale_id: es
-        tags: "Emails"
-    - file: ./api/lang/es/excursions/*.php
-      params:
-        locale_id: es
-        tags: "Excursions"
-    - file: ./api/lang/es/extras/*.php
-      params:
-        locale_id: es
-        tags: "Extras"
-    - file: ./api/lang/es/pdfs/*.php
-      params:
-        locale_id: es
-        tags: "PDFs"
+    # API main translations files
 
-    - file: ./web/lang/es/*.php
+    - file: ./api/lang/es/activities.php
       params:
+        file_format: laravel
         locale_id: es
-        tags: "Main files"
-    - file: ./web/lang/es/destinations/*.php
+        update_translations: true
+        tags: "api_activities"
+
+    - file: ./api/lang/es/mains.php
       params:
+        file_format: laravel
         locale_id: es
-        tags: "Destinations"
-    - file: ./web/lang/es/errors/*.php
+        update_translations: true
+        tags: "api_main"
+
+    - file: ./api/lang/es/services.php
       params:
+        file_format: laravel
         locale_id: es
-        tags: "Errors"
-    - file: ./web/lang/es/includes/*.php
+        update_translations: true
+        tags: "api_services"
+
+    - file: ./api/lang/es/emails/bookings/cancellation.php
       params:
+        file_format: laravel
         locale_id: es
-        tags: "Includes"
-    - file: ./web/lang/es/schedules/*.php
+        update_translations: true
+        tags: "api_email_cancellation"
+
+    - file: ./api/lang/es/emails/bookings/confirmation.php
       params:
+        file_format: laravel
         locale_id: es
-        tags: "Schedules"
+        update_translations: true
+        tags: "api_email_confirmation"
+
+    - file: ./api/lang/es/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_EDN"
+
+    - file: ./api/lang/es/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_ENFU"
+
+    - file: ./api/lang/es/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_FEXB"
+
+    - file: ./api/lang/es/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_GAT"
+
+    - file: ./api/lang/es/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_GT"
+
+    - file: ./api/lang/es/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_ILG"
+
+    - file: ./api/lang/es/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_ILOSU"
+
+    - file: ./api/lang/es/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_ILP"
+
+    - file: ./api/lang/es/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LEXB"
+
+    - file: ./api/lang/es/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LOAIR"
+
+    - file: ./api/lang/es/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LOBYN"
+
+    - file: ./api/lang/es/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LOBYR"
+
+    - file: ./api/lang/es/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LWT2N"
+
+    - file: ./api/lang/es/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_LWT2R"
+
+    - file: ./api/lang/es/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_MEGR"
+
+    - file: ./api/lang/es/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_excursion_VOL"
+
+    - file: ./api/lang/es/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_transfer"
+
+    - file: ./api/lang/es/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "api_ticket"
+
+    # Web main translations files
+    - file: ./web/lang/es/blog.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_blog"
+
+    - file: ./web/lang/es/conditions.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_conditions"
+
+    - file: ./web/lang/es/contact.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_contact"
+
+    - file: ./web/lang/es/cookies.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_cookies"
+
+    - file: ./web/lang/es/excursion.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_excursion"
+
+    - file: ./web/lang/es/excursions.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_excursions"
+
+    - file: ./web/lang/es/gateway.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_gateway"
+
+    - file: ./web/lang/es/journey.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_journey"
+
+    - file: ./web/lang/es/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_legal_warning"
+
+    - file: ./web/lang/es/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_main"
+
+    - file: ./web/lang/es/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_maintenance"
+
+    - file: ./web/lang/es/policy.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_policy"
+
+    - file: ./web/lang/es/rates.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_rates"
+
+    - file: ./web/lang/es/response.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_response"
+
+    - file: ./web/lang/es/schedule.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_schedule"
+
+    - file: ./web/lang/es/ticket.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_ticket"
+
+    - file: ./web/lang/es/transfers.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_transfers"
+
+    - file: ./web/lang/es/travelers.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_travelers"
+
+    - file: ./web/lang/es/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_waterbus"
+
+    - file: ./web/lang/es/destinations/fuerteventura.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_dest_fuerteventura"
+
+    - file: ./web/lang/es/destinations/lanzarote.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_dest_lanzarote"
+
+    - file: ./web/lang/es/destinations/lagraciosa.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_dest_lagraciosa"
+
+    - file: ./web/lang/es/destinations/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_destinations"
+
+    - file: ./web/lang/es/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_error_404"
+
+    - file: ./web/lang/es/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_error_504"
+
+    - file: ./web/lang/es/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_inc_floating-menu"
+
+    - file: ./web/lang/es/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_inc_footer"
+
+    - file: ./web/lang/es/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_inc_language"
+
+    - file: ./web/lang/es/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_inc_messages"
+
+    - file: ./web/lang/es/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_inc_navbar"
+
+    - file: ./web/lang/es/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_schedules_lnz_ftv"
+
+    - file: ./web/lang/es/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_schedules_lnz_lg"
+
+    - file: ./web/lang/es/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: es
+        update_translations: true
+        tags: "web_schedules"
 
   pull:
     targets:
 
-    # German
+    # API EN translations files --------------------------------
+
+    - file: ./api/lang/en/activities.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_activities"
+
+    - file: ./api/lang/en/mains.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_main"
+
+    - file: ./api/lang/en/services.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_services"
+
+    - file: ./api/lang/en/emails/bookings/cancellation.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_email_cancellation"
+
+    - file: ./api/lang/en/emails/bookings/confirmation.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_email_confirmation"
+
+    - file: ./api/lang/en/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_EDN"
+
+    - file: ./api/lang/en/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_ENFU"
+
+    - file: ./api/lang/en/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_FEXB"
+
+    - file: ./api/lang/en/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_GAT"
+
+    - file: ./api/lang/en/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_GT"
+
+    - file: ./api/lang/en/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_ILG"
+
+    - file: ./api/lang/en/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_ILOSU"
+
+    - file: ./api/lang/en/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_ILP"
+
+    - file: ./api/lang/en/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LEXB"
+
+    - file: ./api/lang/en/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LOAIR"
+
+    - file: ./api/lang/en/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LOBYN"
+
+    - file: ./api/lang/en/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LOBYR"
+
+    - file: ./api/lang/en/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LWT2N"
+
+    - file: ./api/lang/en/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_LWT2R"
+
+    - file: ./api/lang/en/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_MEGR"
+
+    - file: ./api/lang/en/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_excursion_VOL"
+
+    - file: ./api/lang/en/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_transfer"
+
+    - file: ./api/lang/en/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "api_ticket"
+
+    # Web main translations files
+    - file: ./web/lang/en/blog.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_blog"
+
+    - file: ./web/lang/en/conditions.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_conditions"
+
+    - file: ./web/lang/en/contact.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_contact"
+
+    - file: ./web/lang/en/cookies.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_cookies"
+
+    - file: ./web/lang/en/excursion.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_excursion"
+
+    - file: ./web/lang/en/excursions.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_excursions"
+
+    - file: ./web/lang/en/gateway.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_gateway"
+
+    - file: ./web/lang/en/journey.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_journey"
+
+    - file: ./web/lang/en/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_legal_warning"
+
+    - file: ./web/lang/en/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_main"
+
+    - file: ./web/lang/en/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_maintenance"
+
+    - file: ./web/lang/en/policy.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_policy"
+
+    - file: ./web/lang/en/rates.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_rates"
+
+    - file: ./web/lang/en/response.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_response"
+
+    - file: ./web/lang/en/schedule.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_schedule"
+
+    - file: ./web/lang/en/ticket.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_ticket"
+
+    - file: ./web/lang/en/transfers.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_transfers"
+
+    - file: ./web/lang/en/travelers.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_travelers"
+
+    - file: ./web/lang/en/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_waterbus"
+
+    - file: ./web/lang/en/destinations/fuerteventura.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_dest_fuerteventura"
+
+    - file: ./web/lang/en/destinations/lanzarote.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_dest_lanzarote"
+
+    - file: ./web/lang/en/destinations/lagraciosa.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_dest_lagraciosa"
+
+    - file: ./web/lang/en/destinations/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_destinations"
+
+    - file: ./web/lang/en/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_error_404"
+
+    - file: ./web/lang/en/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_error_504"
+
+    - file: ./web/lang/en/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_inc_floating-menu"
+
+    - file: ./web/lang/en/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_inc_footer"
+
+    - file: ./web/lang/en/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_inc_language"
+
+    - file: ./web/lang/en/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_inc_messages"
+
+    - file: ./web/lang/en/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_inc_navbar"
+
+    - file: ./web/lang/en/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_schedules_lnz_ftv"
+
+    - file: ./web/lang/en/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_schedules_lnz_lg"
+
+    - file: ./web/lang/en/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: en
+        update_translations: true
+        tags: "web_schedules"
+
+    # API DE translations files --------------------------------
+
+    - file: ./api/lang/de/activities.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_activities"
+
+    - file: ./api/lang/de/mains.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_main"
+
+    - file: ./api/lang/de/services.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_services"
+
+    - file: ./api/lang/de/emails/bookings/cancellation.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_email_cancellation"
+
+    - file: ./api/lang/de/emails/bookings/confirmation.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_email_confirmation"
+
+    - file: ./api/lang/de/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_EDN"
+
+    - file: ./api/lang/de/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_ENFU"
+
+    - file: ./api/lang/de/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_FEXB"
+
+    - file: ./api/lang/de/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_GAT"
+
+    - file: ./api/lang/de/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_GT"
+
+    - file: ./api/lang/de/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_ILG"
+
+    - file: ./api/lang/de/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_ILOSU"
+
+    - file: ./api/lang/de/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_ILP"
+
+    - file: ./api/lang/de/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LEXB"
+
+    - file: ./api/lang/de/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LOAIR"
+
+    - file: ./api/lang/de/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LOBYN"
+
+    - file: ./api/lang/de/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LOBYR"
+
+    - file: ./api/lang/de/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LWT2N"
+
+    - file: ./api/lang/de/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_LWT2R"
+
+    - file: ./api/lang/de/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_MEGR"
+
+    - file: ./api/lang/de/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_excursion_VOL"
+
+    - file: ./api/lang/de/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_transfer"
+
+    - file: ./api/lang/de/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "api_ticket"
+
+    # Web main translations files
+    - file: ./web/lang/de/blog.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_blog"
+
+    - file: ./web/lang/de/conditions.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_conditions"
+
+    - file: ./web/lang/de/contact.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_contact"
+
+    - file: ./web/lang/de/cookies.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_cookies"
+
+    - file: ./web/lang/de/excursion.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_excursion"
+
+    - file: ./web/lang/de/excursions.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_excursions"
+
+    - file: ./web/lang/de/gateway.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_gateway"
+
+    - file: ./web/lang/de/journey.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_journey"
+
+    - file: ./web/lang/de/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_legal_warning"
+
+    - file: ./web/lang/de/main.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_main"
+
+    - file: ./web/lang/de/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_maintenance"
+
+    - file: ./web/lang/de/policy.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_policy"
+
+    - file: ./web/lang/de/rates.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_rates"
+
+    - file: ./web/lang/de/response.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_response"
+
+    - file: ./web/lang/de/schedule.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_schedule"
+
+    - file: ./web/lang/de/ticket.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_ticket"
+
+    - file: ./web/lang/de/transfers.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_transfers"
+
+    - file: ./web/lang/de/travelers.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_travelers"
+
+    - file: ./web/lang/de/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_waterbus"
+
+    - file: ./web/lang/de/destinations/fuerteventura.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_dest_fuerteventura"
+
+    - file: ./web/lang/de/destinations/lanzarote.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_dest_lanzarote"
+
+    - file: ./web/lang/de/destinations/lagraciosa.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_dest_lagraciosa"
+
+    - file: ./web/lang/de/destinations/main.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_destinations"
+
+    - file: ./web/lang/de/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_error_404"
+
+    - file: ./web/lang/de/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_error_504"
+
+    - file: ./web/lang/de/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_inc_floating-menu"
+
+    - file: ./web/lang/de/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_inc_footer"
+
+    - file: ./web/lang/de/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_inc_language"
+
+    - file: ./web/lang/de/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_inc_messages"
+
+    - file: ./web/lang/de/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_inc_navbar"
+
+    - file: ./web/lang/de/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_schedules_lnz_ftv"
+
+    - file: ./web/lang/de/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_schedules_lnz_lg"
+
+    - file: ./web/lang/de/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: de
+        update_translations: true
+        tags: "web_schedules"
+
+    # API FR translations files --------------------------------
+    - file: ./api/lang/fr/activities.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_activities"
+
+    - file: ./api/lang/fr/mains.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_main"
+
+    - file: ./api/lang/fr/services.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_services"
+
+    - file: ./api/lang/fr/emails/bookings/cancellation.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_email_cancellation"
+
+    - file: ./api/lang/fr/emails/bookings/confirmation.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_email_confirmation"
+
+    - file: ./api/lang/fr/excursions/EDN.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_EDN"
+
+    - file: ./api/lang/fr/excursions/ENFU.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_ENFU"
+
+    - file: ./api/lang/fr/excursions/FEXB.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_FEXB"
+
+    - file: ./api/lang/fr/excursions/GAT.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_GAT"
+
+    - file: ./api/lang/fr/excursions/GT.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_GT"
+
+    - file: ./api/lang/fr/excursions/ILG.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_ILG"
+
+    - file: ./api/lang/fr/excursions/ILOSU.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_ILOSU"
+
+    - file: ./api/lang/fr/excursions/ILP.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_ILP"
+
+    - file: ./api/lang/fr/excursions/LEXB.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LEXB"
+
+    - file: ./api/lang/fr/excursions/LOAIR.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LOAIR"
+
+    - file: ./api/lang/fr/excursions/LOBYN.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LOBYN"
+
+    - file: ./api/lang/fr/excursions/LOBYR.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LOBYR"
+
+    - file: ./api/lang/fr/excursions/LWT2N.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LWT2N"
+
+    - file: ./api/lang/fr/excursions/LWT2R.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_LWT2R"
+
+    - file: ./api/lang/fr/excursions/MEGR.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_MEGR"
+
+    - file: ./api/lang/fr/excursions/VOL.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_excursion_VOL"
+
+    - file: ./api/lang/fr/extras/transfer.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_transfer"
+
+    - file: ./api/lang/fr/pdfs/ticket.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "api_ticket"
+
+    # Web main translations files
+    - file: ./web/lang/fr/blog.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_blog"
+
+    - file: ./web/lang/fr/conditions.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_conditions"
+
+    - file: ./web/lang/fr/contact.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_contact"
+
+    - file: ./web/lang/fr/cookies.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_cookies"
+
+    - file: ./web/lang/fr/excursion.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_excursion"
+
+    - file: ./web/lang/fr/excursions.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_excursions"
+
+    - file: ./web/lang/fr/gateway.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_gateway"
+
+    - file: ./web/lang/fr/journey.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_journey"
+
+    - file: ./web/lang/fr/legal-warning.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_legal_warning"
+
+    - file: ./web/lang/fr/main.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_main"
+
+    - file: ./web/lang/fr/maintenance.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_maintenance"
+
+    - file: ./web/lang/fr/policy.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_policy"
+
+    - file: ./web/lang/fr/rates.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_rates"
+
+    - file: ./web/lang/fr/response.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_response"
+
+    - file: ./web/lang/fr/schedule.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_schedule"
+
+    - file: ./web/lang/fr/ticket.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_ticket"
+
+    - file: ./web/lang/fr/transfers.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_transfers"
+
+    - file: ./web/lang/fr/travelers.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_travelers"
+
+    - file: ./web/lang/fr/waterbus.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_waterbus"
+
     - file: ./web/lang/fr/destinations/fuerteventura.php
       params:
         file_format: laravel
         locale_id: fr
-        tags: "Destinations"
+        update_translations: true
+        tags: "web_dest_fuerteventura"
+
     - file: ./web/lang/fr/destinations/lanzarote.php
       params:
         file_format: laravel
         locale_id: fr
-        tags: "Destinations"
+        update_translations: true
+        tags: "web_dest_lanzarote"
+
     - file: ./web/lang/fr/destinations/lagraciosa.php
       params:
         file_format: laravel
         locale_id: fr
-        tags: "Destinations"
+        update_translations: true
+        tags: "web_dest_lagraciosa"
+
     - file: ./web/lang/fr/destinations/main.php
       params:
         file_format: laravel
         locale_id: fr
-        tags: "Destinations"
+        update_translations: true
+        tags: "web_destinations"
+
+    - file: ./web/lang/fr/errors/404.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_error_404"
+
+    - file: ./web/lang/fr/errors/504.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_error_504"
+
+    - file: ./web/lang/fr/includes/floating-menu.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_inc_floating-menu"
+
+    - file: ./web/lang/fr/includes/footer.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_inc_footer"
+
+    - file: ./web/lang/fr/includes/language.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_inc_language"
+
+    - file: ./web/lang/fr/includes/messages.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_inc_messages"
+
+    - file: ./web/lang/fr/includes/navbar.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_inc_navbar"
+
+    - file: ./web/lang/fr/schedules/lnz-ftv.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_schedules_lnz_ftv"
+
+    - file: ./web/lang/fr/schedules/lnz-lg.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_schedules_lnz_lg"
+
+    - file: ./web/lang/fr/schedules/main.php
+      params:
+        file_format: laravel
+        locale_id: fr
+        update_translations: true
+        tags: "web_schedules"
