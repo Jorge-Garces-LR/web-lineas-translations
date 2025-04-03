@@ -1,5 +1,4 @@
 <?php
-
 return [
     'title' => 'Líneas Romero | Tu viaje',
     'description' => 'Información sobre el equipaje, mascotas y servicios a bordo de Líneas Romero.',
