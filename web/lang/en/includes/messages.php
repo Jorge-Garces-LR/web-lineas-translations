@@ -1,27 +1,19 @@
 <?php
 return [
-	"apologies" => "We sincerely apologise for the inconvenience.",
-	"close" => "Close
-",
-	"continue_booking" => "You can continue with the booking, and our system will attempt to reprocess the inquiry to the Ministry of Development on your behalf. You should receive a confirmation email within a few hours. If you do not receive an email confirming your residency at least 2 hours before your trip, please visit the port ticket office with your residency documentation (travel certificate and valid identity document) at least 30 minutes before departure. Otherwise, you will not be able to board the ferry directly.",
-	"continue_button" => "CONTINUE WITH BOOKING",
-	"error" => "Error",
-	"failed_passengers" => "Passengers who have failed:",
-	"fomento_invalid" => "The Ministry of Development has been unable to validate all resident passengers in your booking.",
-	"notification" => "Notification",
-	"retry_button" => "RETRY CONSULTATION",
-	"retry_consultation" => "You can choose to retry the inquiry by modifying the data, as it must match exactly what is stated on your ID. Alternatively, if you believe the information is correct and see no errors, you can proceed with the booking without validation. If you continue without validation, you will need to present the travel certificate and your valid identity document at the ticket office at least 30 minutes before departure.",
-	"sara_error" => "MINISTRY ERROR",
-	"sara_invalid" => "VALIDATION WITH MINISTRY FAILED",
-	"sorry_for_inconvenience" => "Sorry for the inconvenience",
-	"technical_issues" => "Due to technical issues, we are unable to verify your residency with the Ministry.
-
-
-
-
-
-
-
-",
-	"used_attempts" => "You have used all the available attempts to check with the Ministry of Development the validity of your data. You must now continue with the booking and go to the ticket office 30 minutes before boarding to validate your reservation.",
+    'error' => 'ATTENTION',
+    'close' => 'Close',
+    'sorry_for_inconvenience' => 'Sorry for the inconvenience',
+    'sara_verification_failed' => 'FOMENTO VALIDATION FAILED',
+    'technical_issues' => 'Due to technical issues, your residence cannot be verified with Fomento',
+    'continue_booking' => 'Your booking will continue, our system will try to redo the Fomento query for you, so you should receive a confirmation email in a few hours. If you do not receive this email, you must go to the port ticket office with your residence documentation (travel certificate and valid ID) <b>at least 30min before departure</b>, otherwise you will not be able to board directly onto the ship',
+    'fomento_invalid' => 'Fomento could not validate all resident passengers in your booking',
+    'failed_verification' => 'Residence NOT verified: ',
+    'failed_conection' => 'Error with Fomento: ',
+    'retry_consultation' => 'You can choose to redo the query by modifying the data, as it must match exactly what is shown on your ID, or, if you consider the data is correct and see no errors, you can continue with the unvalidated booking. If you continue without validation, you must present your travel certificate and valid ID at the ticket office 30min before departure',
+    'failed_passengers' => 'Failed passengers:',
+    'used_attempts' => 'You have used all possible attempts to check the validity of your data with Fomento. You must now continue with the booking and go to the ticket office 30min before boarding to validate your booking',
+    'retry_button' => 'RETRY QUERY',
+    'continue_button' => 'CONTINUE WITH BOOKING',
+    'apologies' => 'We deeply apologize for the inconvenience',
+    'notification' => 'Notification',
 ];
