@@ -1,5 +1,4 @@
 <?php
-
 return [
     'title'       => 'Waterbus Líneas Romero',
     'description' => 'Información útil sobre el Waterbus de Líneas Romero, el servicio de transporte marítimo que une Puerto del Carmen y Puerto Calero en Lanzarote.',

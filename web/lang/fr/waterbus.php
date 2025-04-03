@@ -1,5 +1,9 @@
 <?php
 return [
+	'title'       => 'Waterbus Líneas Romero',
+	'description' => 'Informations utiles sur le Waterbus de Líneas Romero, le service de transport maritime qui relie Puerto del Carmen et Puerto Calero à Lanzarote.',
+	'keywords'    => 'waterbus, líneas romero, puerto del carmen, puerto calero, lanzarote, transport maritime, bus aquatique',
+
 	"activities" => "ACTIVITÉS DONT VOUS POURREZ PROFITER",
 	"additional_info" => "INFORMATION SUPPLÉMENTAIRE",
 	"adult" => "ADULTE",
@@ -17,9 +21,9 @@ return [
 	"documentation_details" => "Vous aurez besoin de la documentation requise par la réglementation en vigueur : pièce d'identité, passeport ou NIE, et de la présenter au personnel de Líneas Romero lors de l'embarquement. Les mineurs de moins de 14 ans ne sont pas tenus de présenter une pièce d'identité ni le livret de famille. Les personnes responsables d'eux lors du voyage en seront responsables.",
 	"embark_info" => "INFORMATIONS POUR L'EMBARQUEMENT",
 	"explore_coast" => "Explorez la côte de Lanzarote avec ce fantastique mini bateau de croisière quotidien qui relit Puerto del Carmen et Puerto Calero.",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"loading" => "Chargement...",
+	"minicruise" => "Profitez d'une mini-croisière entre Puerto Calero et Puerto del Carmen, deux charmants noyaux côtiers de Lanzarote",
 	"navigate" => "Naviguez depuis Puerto del Carmen, la principale zone touristique de Lanzarote, jusqu'à Puerto Calero ou vice versa. Découvrez l'île et profitez d'un paysage différent, de la mer vers la côte, avec Líneas Romero.",
 	"one_way" => "ALLER",
 	"prices" => "TARIFS",
@@ -29,6 +33,7 @@ return [
 	"route_option_2" => "Puerto del Carmen - Puerto Calero",
 	"route_title" => "Puerto del Carmen - Puerto Calero",
 	"schedules" => "HORAIRES",
+	"service" => "Service de Waterbus",
 	"thank_you" => "MERCI POUR VOTRE RÉSERVATION",
 	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",
 	"traveler" => "Passager",

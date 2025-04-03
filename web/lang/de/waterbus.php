@@ -1,5 +1,9 @@
 <?php
 return [
+	'title'       => 'Waterbus Líneas Romero',
+	'description' => 'Nützliche Informationen über den Waterbus von Líneas Romero, den Seetransportdienst, der Puerto del Carmen und Puerto Calero auf Lanzarote verbindet.',
+	'keywords'    => 'waterbus, líneas romero, puerto del carmen, puerto calero, lanzarote, seetransport, wasserbus',
+
 	"activities" => "AKTIVITÄTEN, DIE DU GENIESSEN KANNST ",
 	"additional_info" => "ZUSÄTZLICHE INFORMATIONEN",
 	"adult" => "ERWACHSENER",
@@ -19,6 +23,7 @@ return [
 	"explore_coast" => "Erkunde die Küste von Lanzarote mit dieser fantastischen täglichen Minikreuzfahrt, die Puerto del Carmen und Puerto Calero verbindet.",
 	"keywords" => "Líneas Romero Geschichte Federico Romero",
 	"loading" => "Laden...",
+	"minicruise" => "Genieße eine Minikreuzfahrt zwischen Puerto Calero und Puerto del Carmen, zwei charmanten Küstenorten von Lanzarote",
 	"navigate" => "Segel von Puerto del Carmen, dem wichtigsten Touristengebiet Lanzarotes, nach Puerto Calero oder umgekehrt. Entdecke die Insel und genieße mit Líneas Romero eine tolle Landschaft, vom Meer bis zur Küste.",
 	"one_way" => "HINFAHRT",
 	"prices" => "PREISE",
@@ -28,9 +33,9 @@ return [
 	"route_option_2" => "Puerto del Carmen - Puerto Calero",
 	"route_title" => "Puerto del Carmen - Puerto Calero",
 	"schedules" => "ZEITPLÄNE",
+	"service" => "Waterbus-Dienst",
 	"thank_you" => "VIELEN DANK FÜR IHRE BUCHUNG",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 	"traveler" => "Reisender",
 	"trip_type" => "Art der Reise",
 	"trip_type_option_1" => "Hin- und Rückfahrt",
