@@ -1,5 +1,4 @@
 <?php
-
 return [
     'excursions' => 'EXCURSIONES',
     'destinations' => 'DESTINOS',

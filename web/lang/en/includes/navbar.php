@@ -7,4 +7,5 @@ return [
 	"schedules" => "SCHEDULES",
 	"transfers" => "Transfers",
 	"your_journey" => "Your journey",
+    'language' => 'LANGUAGE',
 ];

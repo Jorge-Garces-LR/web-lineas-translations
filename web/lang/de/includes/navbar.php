@@ -7,4 +7,5 @@ return [
 	"schedules" => "ZEITPLÄNE",
 	"transfers" => "Transfere",
 	"your_journey" => "Deine Reise",
+	'language' => 'Sprache',
 ];
