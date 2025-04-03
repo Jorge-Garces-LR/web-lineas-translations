@@ -1,6 +1,9 @@
 <?php
 
 return [
+    "title"       => "Lineas Romero | Proceso de reserva",
+    "description" => "Proceso de reserva de ferry de linea regular entre Lanzarote, La Graciosa y Fuerteventura con Lineas Romero",
+    "keywords"    => "reserva ferry lineas romero lanzarote fuerteventura la graciosa",
     'outward' => 'IDA',
     'return' => 'REGRESO',
     'outward_date' => 'FECHA DE IDA',
