@@ -7,8 +7,7 @@ return [
 	"consult_conditions" => "Consulter les conditions",
 	"description" => "Ferry a Líneas Romero est une entreprise familiale qui propose des voyages en ferry et des excursions à Lanzarote, Fuerteventura et La Graciosa. Découvrez notre histoire.",
 	"important_notice" => "AVIS IMPORTANT",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"lanzarote_la_graciosa" => "LANZAROTE - LA GRACIOSA",
 	"luggage_policy" => "Bagage permis par personne : 20 kg maximum répartis en 1 à 3 sacs",
 	"mini_rate" => "Tarif mini",

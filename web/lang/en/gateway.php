@@ -6,24 +6,19 @@ return [
 	"booking_summary" => "BOOKING SUMMARY",
 	"card" => "CARD",
 	"children" => "Children",
-	"close" => "Close
-",
+	"close" => "Close",
 	"continue_to_payment" => "PROCEED TO PAYMENT",
 	"dep_time" => "Departure time",
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
-	"header" => "Luxury Ferries <br> Gateway to the islands
-",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"header" => "Luxury Ferries <br> Gateway to the islands",
+	"keywords" => "líneas romero history federico romero",
 	"large_fam_discount" => "Large Family Number",
 	"outward_journey" => "Outbound journey",
 	"outward_price" => "One-way fare",
 	"passenger" => "Passenger",
 	"passengers" => "PASSENGERS",
 	"payment" => "PAYMENT",
-	"payment_gateway" => "Payment gateway
-",
+	"payment_gateway" => "Payment gateway",
 	"payment_reminder" => "Please remember, <b>to complete your booking correctly</b> and receive your confirmation email, you must click the <b>\"Continue\"</b> button after making the payment in the payment gateway.",
 	"price" => "Pay",
 	"price_breakdown" => "Price details",

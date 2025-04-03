@@ -4,8 +4,7 @@ return [
 	"anchor-fw" => "Anchorage near La Concha Beach (Lobos)",
 	"bar" => "Welcome mojito and tortilla tapa",
 	"boat-fv" => "Round-trip ferry to Fuerteventura with free Wi-Fi",
-	"boat-lg" => "Round-trip ferry to La Graciosa with free Wi-Fi
-",
+	"boat-lg" => "Round-trip ferry to La Graciosa with free Wi-Fi",
 	"boat-lunch" => "Food: tortilla, delicious paella, and fresh fruit",
 	"boat-lz" => "Round-trip ferry to Lanzarote with free Wi-Fi",
 	"boat-wf" => "Round-trip ferry to Isla de Lobos",

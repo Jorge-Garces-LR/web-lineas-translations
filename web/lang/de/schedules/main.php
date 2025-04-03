@@ -8,7 +8,6 @@ return [
 	"lanzarote_lg_text" => "Genieße eine komfortable Bootsfahrt zwischen Lanzarote und La Graciosa",
 	"lanzarote_lg_title" => "Lanzarote - La Graciosa",
 	"subheading" => "COOKIES UND RICHTLINIE ZUR LOKALEN SPEICHERUNG",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 	"view_schedules" => "FAHRPLÄNE ANZEIGEN",
 ];

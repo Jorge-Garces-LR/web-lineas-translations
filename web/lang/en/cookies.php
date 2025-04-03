@@ -5,17 +5,13 @@ return [
 	"intro" => "This website uses cookies and similar technologies to provide the service, as well as to allow us to improve it by collecting statistics on its use and for other purposes.",
 	"intro2" => "Browsing this website necessarily involves the use of cookies and similar technologies whenever required for its operation. Likewise, for certain purposes, cookies and local storage will be subject to your prior consent. You can accept or reject cookies through the provided settings system, and it is also possible to configure your browser to block their use.",
 	"intro3" => "This policy is part of our privacy policy and includes the following:",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"note" => "NOTE: The information provided is as of March 14, 2024, and we inform you that over time it may no longer be exhaustive, although this cookie policy is periodically reviewed.",
 	"section1_content" => "\"Cookies\" are small temporary files that are created on the user's device (computer, phone, tablet, etc.) when visiting a website. They allow the site to store or retrieve information during browsing, for example, to save usage preferences, recognise the user on future visits, or gather information about browsing habits.",
-	"section1_content2" => "When a website creates a cookie on the user's device, it stores the address/domain of the website that created the cookie, the duration of the cookie, which can range from a few minutes to several years, as well as the content of the cookie. The user can disable cookies at any time through the settings system on this website, as well as configure their browser to prevent (block) the use of cookies by specific websites, and delete any cookies previously stored.
-",
+	"section1_content2" => "When a website creates a cookie on the user's device, it stores the address/domain of the website that created the cookie, the duration of the cookie, which can range from a few minutes to several years, as well as the content of the cookie. The user can disable cookies at any time through the settings system on this website, as well as configure their browser to prevent (block) the use of cookies by specific websites, and delete any cookies previously stored.",
 	"section1_title" => "What are cookies?",
 	"section2_content" => "The most common uses or purposes are:",
-	"section2_title" => "What are cookies used for?
-",
+	"section2_title" => "What are cookies used for?",
 	"section3_content" => "Technologies similar to cookies refer to any type of data storage and retrieval mechanism used on the user's device to gather information. The most common include:",
 	"section3_title" => "What do we mean by technologies similar to cookies?",
 	"section4_content" => "The cookies on this website can be classified, based on who creates them, into two categories:",
@@ -30,8 +26,7 @@ return [
 	"section7_content2" => "You can access the settings system via the link at the bottom of the homepage or by clicking here.",
 	"section7_content3" => "Most browsers allow you to globally disable cookies. Many browsers also allow you to delete cookies associated with specific websites/domains. To do this, the user should consult their browser's help section. Below are links to the help pages of the most common browsers for information on how to configure cookies in each one:",
 	"section7_content4" => "To delete the data stored in the browser's local storage, the user can clear their browsing history.",
-	"section7_content5" => "To learn how to delete Flash local storage or limit the amount of allowed space, refer to the <a href=\"http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html\" style=\"text-decoration: underline; color: blue;\">Adobe Help page</a>.
-",
+	"section7_content5" => "To learn how to delete Flash local storage or limit the amount of allowed space, refer to the <a href=\"http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html\" style=\"text-decoration: underline; color: blue;\">Adobe Help page</a>.",
 	"section7_content6" => "For other browsers, as well as for any clarification or questions about the cookies on this website, you can contact us through the contact details on the website.",
 	"section7_content7" => "Important notice: if cookies are blocked, certain services or features of the website may not function correctly.",
 	"section7_list" => [

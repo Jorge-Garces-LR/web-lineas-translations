@@ -12,8 +12,7 @@ return [
 	"overview" => "A GLANCE AT THIS EXCURSION",
 	"prices" => "PRICES",
 	"recommendations" => "RECOMMENDATIONS",
-	"route" => "ROUTE
-",
+	"route" => "ROUTE",
 	"schedules" => "SCHEDULES",
 	"subtitle" => "ENJOY AN EXPERIENCE AT YOUR OWN PACE",
 	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",

@@ -2,9 +2,7 @@
 return [
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
 	"heading-text" => "EXPLORE THE OLDEST ISLAND <br> OF THE CANARIES",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"text-1" => "If there is one island in the Canary Archipelago that rivals the Caribbean, it's Fuerteventura. Its golden sandy beaches and emerald waters captivate everyone who arrives. With Líneas Romero, you can travel to Fuerteventura from Lanzarote on our fast ferry, which takes only 30 minutes. Want to know everything that awaits you on this wonderful island? Don't miss its history, beaches, and the best hidden corners of Fuerteventura.",
 	"text-10" => "In just half an hour by boat, you can discover this magnificent spot. Lobos Island has two beaches: La Concha, with views of the Corralejo dunes, is a peaceful bay that is protected from the waves. On the other side, there is the Puertito de Lobos, where the contrast between the emerald green of the water, the dark volcanic rock, and the beige color of the dock's wooden structure will captivate you.",
 	"text-11" => "If you’re someone who enjoys getting off the beaten path, in Fuerteventura you’ll find some hidden spots that are truly breathtaking.",
@@ -31,8 +29,6 @@ return [
 	"title-1" => "FUERTEVENTURA",
 	"title-10" => "Lobos Island",
 	"title-11" => "Hidden gems in Fuerteventura
-
-
 ",
 	"title-12" => "Barranco de Las Peñitas and Barranco de Los Enamorados",
 	"title-13" => "Esquinzo",

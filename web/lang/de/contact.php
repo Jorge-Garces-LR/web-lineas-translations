@@ -15,6 +15,5 @@ return [
 	"office_hours" => "MONTAG - FREITAG 09:00H - 18:00H",
 	"phone" => "Telefon +34 928 59 61 07",
 	"ticket_locations" => "STANDORTE DER TICKETSCHALTER",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 ];

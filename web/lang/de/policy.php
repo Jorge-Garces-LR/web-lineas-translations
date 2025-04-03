@@ -3,8 +3,7 @@ return [
 	"actualizacion" => "Wenn du Daten änderst, teile uns dies  bitte mit, damit wir sie auf dem neuesten Stand halten können.",
 	"canal_etico" => "ETHISCHER KANAL",
 	"clientes" => "KUNDEN",
-	"colectivos" => "Wenn du zu einer der folgenden Gruppen gehörst, lies bitte die nachstehenden Informationen:
-",
+	"colectivos" => "Wenn du zu einer der folgenden Gruppen gehörst, lies bitte die nachstehenden Informationen:",
 	"compras" => "Im Falle eines Kaufs oder einer Zahlung werden deine Daten an die jeweilige Plattform weitergegeben oder innerhalb ihrer Umgebung verarbeitet, wenn du eine App, Website, Plattform, Bankkarte oder einen anderen Online-Dienst auswählst – stets unter Einhaltung höchster Sicherheitsstandards.",
 	"comunicacion" => "Du kannst uns auf jede erdenkliche Weise kontaktieren.",
 	"comunicaciones" => "Werden wir auf elektronischem Wege kommunizieren?",
@@ -78,7 +77,6 @@ return [
 	"revisar" => "Wir empfehlen dir, es zu überprüfen, und wenn du dich registriert hast und auf dein Konto oder Profil zugreifst, wirst du über die Änderungen informiert.",
 	"seguridad" => "Welche Sicherheitsmaßnahmen wenden wir an?",
 	"seguridad_info" => "Du kannst beruhigt sein: Wir haben ein optimales Schutzniveau für die von uns verarbeiteten personenbezogenen Daten eingeführt und alle uns zur Verfügung stehenden technischen Mittel und Maßnahmen nach dem Stand der Technik installiert, um den Verlust, den Missbrauch, die Änderung, den unbefugten Zugriff und den Diebstahl personenbezogener Daten zu verhindern.",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 	"transferencias" => "Es können internationale Datenübermittlungen erfolgen, wenn amerikanische Anwendungen genutzt werden. Solche Übermittlungen erfolgen jedoch ausschließlich an Unternehmen, die nachweislich ein angemessenes Schutzniveau und entsprechende Garantien gemäß den Vorgaben und Anforderungen der geltenden Datenschutzbestimmungen, wie der Europäischen Datenschutz-Grundverordnung (DSGVO), bieten oder wenn eine gesetzliche Grundlage für die internationale Datenübermittlung besteht.",
 ];

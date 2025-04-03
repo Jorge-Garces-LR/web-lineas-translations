@@ -7,9 +7,7 @@ return [
 	"consult_conditions" => "Check conditions",
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
 	"important_notice" => "IMPORTANT NOTICE",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"lanzarote_la_graciosa" => "LANZAROTE - LA GRACIOSA",
 	"luggage_policy" => "Allowed luggage per person: a maximum of 20kg, distributed between 1 to 3 pieces.",
 	"mini_rate" => "Mini rate",

@@ -4,8 +4,7 @@ return [
 	"contact_office" => "Si vous pensez qu'il s'agit d'une erreur et/ou si un paiement a été effectué sur votre carte, veuillez contacter notre bureau pour résoudre le problème.",
 	"description" => "Ferry a Líneas Romero est une entreprise familiale qui propose des voyages en ferry et des excursions à Lanzarote, Fuerteventura et La Graciosa. Découvrez notre histoire.",
 	"email_summary" => "Dans quelques instants, vous recevrez un e-mail contenant le résumé de votre achat.",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"payment_problem" => "Un problème est survenu lors du paiement de votre réservation",
 	"purchase_confirmation" => "CONFIRMATION D'ACHAT",
 	"purchase_not_confirmed" => "ACHAT NON CONFIRMÉ",

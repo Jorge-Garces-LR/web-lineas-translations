@@ -7,8 +7,7 @@ return [
 	"heading_subtitle" => "Depuis 90 ans, nous nous engageons à relier des îles",
 	"history_description" => "Tout a commencé lorsque Jorge M. Toledo a fondé Líneas Romero, devenant ainsi la première entreprise maritime de courrier postal reliant La Graciosa et Lanzarote. À ses débuts, elle disposait d'un simple bateau à rames qui transportait le courrier entre ces deux magnifiques îles de l'Atlantique. Un navire dédié au service postal, qui a été hérité par la fille de Jorge M. Toledo, Juana González Toledo, qui a épousé par la suite Juan Romero. <br><br> C'est en 1970 que Juan Romero a pris la direction de l'entreprise, élargissant ainsi ses services. Juan a dirigé Líneas Romero jusqu'en 1985, moment où ses quatre enfants ont hérité de l'entreprise : Luis, Juan Jorge, Federico et Rosa Romero, qui sont actuellement à la tête de l'entreprise. La famille Romero vit toujours à La Graciosa et, bien que leur entreprise n'ait cessé de croître, leurs valeurs demeurent intactes. Ils aiment leur travail et leur île par-dessus tout, et leur passion les a conduits à une trajectoire pleine de succès.",
 	"history_title" => "HISTOIRE",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"section_description" => "La tradition et l'innovation sont les deux principaux piliers de l'identité de Líneas Romero. Nous sommes une entreprise familiale dédiée au secteur de la navigation qui relit les îles les plus orientales des Canaries depuis 1930.",
 	"section_title" => "DÉCOUVREZ L'HISTOIRE DE LÍNEAS ROMERO",
 	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",

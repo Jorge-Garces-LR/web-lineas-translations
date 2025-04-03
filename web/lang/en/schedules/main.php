@@ -2,9 +2,7 @@
 return [
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
 	"heading" => "ABOUT US",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"lanzarote_ftv_text" => "Enjoy a comfortable boat journey between Lanzarote and Fuerteventura",
 	"lanzarote_ftv_title" => "Lanzarote - Fuerteventura",
 	"lanzarote_lg_text" => "Enjoy a comfortable boat journey between Lanzarote and La Graciosa",

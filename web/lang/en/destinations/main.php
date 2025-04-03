@@ -6,9 +6,7 @@ return [
 	"fuerteventura_text" => "Find your ideal destination on an island full of magic and volcanoes.",
 	"fuerteventura_title" => "Fuerteventura",
 	"heading-title" => "EXCURSIONS",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"la_graciosa_text" => "Find your ideal destination on an island filled with magic and volcanoes.",
 	"la_graciosa_title" => "La Graciosa",
 	"lanzarote_text" => "Find your ideal destination on an island full of magic and volcanoes.",

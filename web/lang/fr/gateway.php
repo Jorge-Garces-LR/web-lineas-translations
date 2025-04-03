@@ -11,8 +11,7 @@ return [
 	"dep_time" => "Heure de départ",
 	"description" => "Ferry a Líneas Romero est une entreprise familiale qui propose des voyages en ferry et des excursions à Lanzarote, Fuerteventura et La Graciosa. Découvrez notre histoire.",
 	"header" => "Ferrys de luxe <br> Accès aux îles",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"large_fam_discount" => "Réduction famille nombreuse",
 	"outward_journey" => "Trajet aller",
 	"outward_price" => "Prix de l'aller",

@@ -12,6 +12,5 @@ return [
 	"lanzarote_text" => "Finde dein ideales Reiseziel auf einer Insel voller Magie und Vulkane",
 	"lanzarote_title" => "Lanzarote",
 	"subtitle" => "ERLEBE EIN ERLEBNIS, DAS AN DEIN TEMPO ANGEPASST IST",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 ];

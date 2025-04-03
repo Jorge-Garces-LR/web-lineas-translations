@@ -4,8 +4,7 @@ return [
 	"description" => "Ferry a Líneas Romero est une entreprise familiale qui propose des voyages en ferry et des excursions à Lanzarote, Fuerteventura et La Graciosa. Découvrez notre histoire.",
 	"heading" => "NOUS CONNAÎTRE",
 	"intro" => "Ce site web utilise des cookies et technologies similaires pour fournir le service, ainsi que pour permettre de l'améliorer, à travers l'obtention de statistiques sur son utilisation, et d'autres finalités.",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"section_1_content" => "Conformément à la loi 34/2002, du 11 juillet, sur les Services de la société de l'information et du commerce électronique, les données d'identification du titulaire du site web sont les suivantes :
 <br><br> LINEAS ROMERO, S.L.
 Avda. Virgen del Mar, nº119, La Graciosa, 35540, Lanzarote

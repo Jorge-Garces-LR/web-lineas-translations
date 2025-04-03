@@ -6,8 +6,7 @@ return [
 	"email" => "E-mail - info@lineasromero.com",
 	"excursions_email" => "EXCURSIONS : excursiones@lineasromero.com",
 	"heading" => "NOUS CONNAÎTRE",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"location_corralejo" => "Muelle de Corralejo, Fuerteventura",
 	"location_graciosa" => "Muelle de La Graciosa, Caleta de Sebo",
 	"location_orzola" => "Muelle de Órzola, Lanzarote",

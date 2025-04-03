@@ -30,7 +30,6 @@ return [
 	"regular_line_graciosa_email" => "REGULÄRE LINIE ÓRZOLA-LA GRACIOSA: info@lineasromero.com",
 	"regular_line_transfers" => "Reguläre Linie + Transfers:",
 	"regular_line_weather_conditions" => "Für den Fall, dass die Überfahrt aufgrund der Wetterbedingungen nicht durchgeführt werden kann, übernimmt das Unternehmen keine andere Verantwortung als die Verpflichtung zur Rückerstattung des Ticketbetrags.",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 	"travel_date" => "Datum der Reise",
 ];

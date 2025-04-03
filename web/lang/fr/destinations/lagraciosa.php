@@ -2,8 +2,7 @@
 return [
 	"description" => "Ferry a Líneas Romero est une entreprise familiale qui propose des voyages en ferry et des excursions à Lanzarote, Fuerteventura et La Graciosa. Découvrez notre histoire.",
 	"heading-text" => "EXPLOREZ L'ÎLE LA PLUS <br> ANCIENNE DES CANARIES",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"text-1" => "S'il y a une île dans l'archipel des Canaries qui n'a rien à envier aux Caraïbes, c'est Fuerteventura. Ses plages de sable doré et ses eaux émeraude conquièrent tous ceux qui y arrivent. Avec Líneas Romero, vous pouvez voyager vers Fuerteventura depuis Lanzarote, à bord de notre ferry rapide, en seulement 30 minutes. Vous voulez découvrir tout ce qui vous attend sur cette île merveilleuse ? Ne manquez pas son histoire, ses plages et ses plus beaux recoins.",
 	"text-10" => "En seulement une demi-heure en bateau, vous pourrez découvrir ce magnifique endroit. L'île de Lobos possède deux plages : La Concha, une baie tranquille protégée des vagues, offrant une vue imprenable sur les dunes de Corralejo. D'autre part, il y a le Puertito de Lobos, un endroit où le contraste entre l'eau d'un vert émeraude, les roches volcaniques sombres et la couleur beige du quai en bois vous enchantera.",
 	"text-11" => "Si vous êtes du genre à sortir des sentiers battus, à Fuerteventura, vous découvrirez de véritables recoins qui sont de véritables merveilles.",

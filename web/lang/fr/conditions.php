@@ -19,8 +19,7 @@ return [
 	"groups_reservations" => "Réservations de 20 personnes ou plus.",
 	"groups_weather_conditions" => "En cas d'annulation de la traversée ou l'excursion en raison des conditions météorologiques, la compagnie n'assumera aucune autre responsabilité que l'obligation de rembourser le montant du billet.",
 	"heading" => "NOUS CONNAÎTRE",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"message_requirements" => "Dans le message, veuillez indiquer au minimum :",
 	"passenger_name" => "Nom et prénom du voyageur",
 	"product_name" => "Nom du produit acheté",

@@ -56,6 +56,5 @@ return [
 	"section8_content3" => "Dabei handelt es sich um Cookies, die von Dritten verwaltet und kontrolliert werden, mit dem Ziel, Funktionalitäten auszuführen/bereitzustellen, die Browsing-Analyse, die Personalisierung des Browsing- und Suchvorgangs sowie die Abschottung von Werbung zu gewährleisten.",
 	"section8_title" => "Detaillierte Informationen zu den von dieser Website verwendeten Cookies",
 	"subheading" => "COOKIES UND RICHTLINIE ZUR LOKALEN SPEICHERUNG",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 ];

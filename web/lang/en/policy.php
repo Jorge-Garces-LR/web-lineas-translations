@@ -5,9 +5,7 @@ return [
 	"clientes" => "CLIENTS",
 	"colectivos" => "If you belong to any of the following groups, please check the dropdown information:",
 	"compras" => "In case of purchase or payment, if you choose any application, website, platform, bank card, or any other online service, your data will be transferred to that platform or processed within its environment, always with the highest level of security.",
-	"comunicacion" => "You can reach out to us using any method you prefer.
-
-",
+	"comunicacion" => "You can reach out to us using any method you prefer.",
 	"comunicaciones" => "Will we make communications by electronic means?",
 	"contactos_web" => "CONTACTS FROM THE WEBSITE OR EMAIL",
 	"cookies" => "Do we use cookies?",
@@ -25,8 +23,7 @@ return [
 	"derechos" => "What rights do you have?",
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
 	"destinatarios" => "To which recipients will your data be disclosed?",
-	"destinatarios_info" => "Your data will not be transferred to third parties, except when required by law. Specifically, it will be shared with the Spanish Tax Agency, banks, and financial institutions for the collection of the provided service or purchased product, as well as with data processors necessary for the execution of the agreement.
-",
+	"destinatarios_info" => "Your data will not be transferred to third parties, except when required by law. Specifically, it will be shared with the Spanish Tax Agency, banks, and financial institutions for the collection of the provided service or purchased product, as well as with data processors necessary for the execution of the agreement.",
 	"duracion" => "How long will we keep personal data?",
 	"duracion_datos" => "How long will we keep your personal data?",
 	"duracion_empleo" => "How long will we keep your personal data?",
@@ -40,8 +37,7 @@ return [
 	"duracion_redes_info" => "We can only access or delete your data in a restricted manner if you have a specific profile. We will process your data for as long as you allow us by following, friending, or liking, or using similar buttons. Any corrections to your data or restrictions on information or posts should be made through your profile or user settings on the social network itself.",
 	"duracion_web" => "How long will we keep personal data?",
 	"duracion_web_info" => "Until the consent granted is revoked.",
-	"empleo" => "JOB SEEKERS
-",
+	"empleo" => "JOB SEEKERS",
 	"finalidades" => "For what purposes will we process your personal data?",
 	"finalidades_canal" => "For what purposes will we process your personal data?",
 	"finalidades_empleo" => "For what purposes will we process your personal data?",
@@ -50,9 +46,7 @@ return [
 	"finalidades_redes" => "For what purposes will we process your personal data?",
 	"finalidades_web" => "For what purposes will we process your personal data?",
 	"formulario_derechos" => "Do you want a form for exercising your rights?",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"legitimacion" => "What is the legal basis for processing your data?",
 	"legitimacion_canal" => "What is the legal basis for processing your data?",
 	"legitimacion_canal_info" => "The legal basis is the legal obligation or, alternatively, the public interest.",

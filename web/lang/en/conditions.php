@@ -12,37 +12,17 @@ return [
 	"excursions_email" => "EXCURSIONS: excursiones@lineasromero.com",
 	"excursions_weather_conditions" => "If the excursion cannot take place due to weather conditions, the company will accept no further liability beyond the obligation to refund the cost of the excursion.",
 	"groups" => "Groups:",
-	"groups_cancellation_7days" => "Cancellations made more than 7 days before the departure date: no surcharge on the crossing or excursion price.
-
-
-
-
-
-
-
-
-",
+	"groups_cancellation_7days" => "Cancellations made more than 7 days before the departure date: no surcharge on the crossing or excursion price.",
 	"groups_cancellation_less_7days" => "Cancellations made more than 7 days before the departure date: no surcharge on the crossing or excursion price.",
 	"groups_changes_7days" => "Changes are allowed up to 7 days before the departure date.",
 	"groups_conditions" => "Special change conditions apply for groups (see below)",
 	"groups_reservations" => "Bookings of 20 people or more.",
 	"groups_weather_conditions" => "If the crossing or excursion cannot take place due to weather conditions, the company will accept no further liability beyond the obligation to refund the ticket price.",
 	"heading" => "ABOUT US",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"message_requirements" => "The message must include at least:",
 	"passenger_name" => "Traveller's first name and surname",
-	"product_name" => "Name of the purchased product
-
-
-
-
-
-
-
-
-",
+	"product_name" => "Name of the purchased product",
 	"regular_line" => "Regular line:",
 	"regular_line_cancellation_24h" => "Cancellations made less than 24 hours before the departure date: 100% surcharge on the price.",
 	"regular_line_conditions" => "Check the change or cancellation conditions here according to the fare.",

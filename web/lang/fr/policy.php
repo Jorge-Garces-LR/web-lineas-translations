@@ -46,8 +46,7 @@ return [
 	"finalidades_redes" => "À quelles finalités allons-nous traiter vos données personnelles ?",
 	"finalidades_web" => "À quelles finalités allons-nous traiter vos données personnelles ?",
 	"formulario_derechos" => "Vous souhaitez un formulaire pour l'exercice de vos droits ?",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"legitimacion" => "Quelle est la base légale du traitement de vos données ?",
 	"legitimacion_canal" => "Quelle est la base légale du traitement de vos données ?",
 	"legitimacion_canal_info" => "La base légale est l'obligation légale ou, le cas échéant, l'intérêt public.",

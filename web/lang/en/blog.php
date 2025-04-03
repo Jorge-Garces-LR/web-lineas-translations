@@ -6,11 +6,8 @@ return [
 	"heading" => "ABOUT US",
 	"heading_subtitle" => "90 years of dedicated island connections",
 	"history_description" => "It all began when Jorge M. Toledo founded Líneas Romero, becoming the first maritime postal company to connect La Graciosa and Lanzarote. In its early days, it operated with a simple rowing boat that transported mail between these two beautiful Atlantic islands. This postal vessel was later inherited by Jorge M. Toledo’s daughter, Juana González Toledo, who would later marry Juan Romero. <br><br> It was in 1970 when Juan Romero took over the company, thereby expanding its services. Juan ran Líneas Romero until 1985, when the business was inherited by their four children: Luis, Juan Jorge, Federico, and Rosa Romero, who currently manage the company. The Romero family still lives on La Graciosa and, although their business has continued to grow, their values remain unchanged. They love their work and their island above all else; and their passion has led them on a path full of success.",
-	"history_title" => "HISTORY
-",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"history_title" => "HISTORY",
+	"keywords" => "líneas romero history federico romero",
 	"section_description" => "Tradition and innovation are the two main hallmarks of Líneas Romero. A family-owned company dedicated to the maritime sector, connecting the easternmost Canary Islands since 1930.",
 	"section_title" => "DISCOVER THE HISTORY OF LÍNEAS ROMERO",
 	"title" => "Líneas Romero Timetables. Travel with Líneas Romero in the fastest and most comfortable way.",

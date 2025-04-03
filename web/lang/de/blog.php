@@ -10,6 +10,5 @@ return [
 	"keywords" => "Líneas Romero Geschichte Federico Romero",
 	"section_description" => "Tradition und Innovation sind die beiden Hauptmerkmale von Líneas Romero. Ein Familienunternehmen, das sich der Schifffahrt verschrieben hat und seit 1930 die östlichsten Inseln der Kanarischen Inseln verbindet.",
 	"section_title" => "ENTDECKE DIE GESCHICHTE VON LÍNEAS ROMERO",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 ];

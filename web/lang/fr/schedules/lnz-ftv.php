@@ -9,8 +9,7 @@ return [
 	"from_fuerteventura" => "DEPUIS FUERTEVENTURA",
 	"from_lanzarote" => "DEPUIS LANZAROTE",
 	"heading" => "NOUS CONNAÎTRE",
-	"keywords" => "Líneas Romero histoire Federico Romero
-",
+	"keywords" => "Líneas Romero histoire Federico Romero",
 	"our_route" => "Notre itinéraire",
 	"schedule_note" => "* Horaire soumis à des modifications pour des raisons opérationnelles",
 	"title" => "Horaires de Líneas Romero. Voyagez avec Líneas Romero de façon rapide et pratique.",

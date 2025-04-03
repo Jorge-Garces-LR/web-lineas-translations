@@ -4,9 +4,7 @@ return [
 	"description" => "Ferry Líneas Romero is a family-owned company that offers ferry trips and excursions in Lanzarote, Fuerteventura, and La Graciosa. Learn about our story.",
 	"heading" => "ABOUT US",
 	"intro" => "This website uses cookies and similar technologies to provide the service, as well as to allow us to improve it by collecting statistics on its use and for other purposes.",
-	"keywords" => "líneas romero history federico romero
-
-",
+	"keywords" => "líneas romero history federico romero",
 	"section_1_content" => "In compliance with Law 34/2002, of July 11, on Information Society Services and Electronic Commerce, the identifying details of the owner of the Website Portal are: <br> <br>
 LINEAS ROMERO, S.L. <br>
 Avda. Virgen del Mar, nº119, La Graciosa, 35540, Lanzarote <br> <br>
@@ -23,8 +21,7 @@ Access to the website implies the User's express acceptance of these General Ter
 	"section_3_intro" => "By accepting these General Terms of Use, the User expressly agrees",
 	"section_3_item_1" => "Do not take any action intended to harm, block, damage, disable, overload, temporarily or permanently, the functionalities, tools, content, and/or infrastructure of the website, in a way that prevents its normal use.",
 	"section_3_item_2" => "Guard and maintain the confidentiality of the access keys associated with your username, being responsible for the use of these personal and non-transferable access keys by third parties.",
-	"section_3_item_3" => "Do not introduce or create defamatory or slanderous content, either about other users or third-party companies unrelated to LINEAS ROMERO, S.L.
-",
+	"section_3_item_3" => "Do not introduce or create defamatory or slanderous content, either about other users or third-party companies unrelated to LINEAS ROMERO, S.L.",
 	"section_3_item_4" => "Do not use any of the materials and information contained on this website for illegal purposes and/or those expressly prohibited in these General Terms of Use, as well as the specific conditions that may be established for certain applications and/or utilities, and that are contrary to the rights and interests of LINEAS ROMERO, S.L., its users, and/or third parties.",
 	"section_3_item_5" => "Do not offer or distribute products and services, nor carry out unsolicited advertising or commercial communications to other users and visitors of LINEAS ROMERO, S.L.",
 	"section_3_title" => "3.- General Obligations of the User.",

@@ -15,6 +15,5 @@ return [
 	"route" => "ROUTE",
 	"schedules" => "ZEITPLÄNE",
 	"subtitle" => "ERLEBE EIN ERLEBNIS, DAS AN DEIN TEMPO ANGEPASST IST",
-	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise
-",
+	"title" => "Fahrpläne Líneas Romero. Reise mit Líneas Romero auf die schnellste und bequemste Weise",
 ];
