@@ -5,7 +5,7 @@ return [
     'description' => 'Seleccione el método de pago',
     'keywords' => '',
 
-    'header' => 'Luxury Ferries <br> Gateway to the islands',
+    'header' => 'Ferry a La Graciosa, <br> Lanzarote y Fuerteventura',
     'selection' => 'SELECCIÓN',
     'passengers' => 'PASAJEROS',
     'payment' => 'PAGO',

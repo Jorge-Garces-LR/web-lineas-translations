@@ -8,4 +8,5 @@ return [
     'transfers' => 'TRANSFER',
     'your_journey' => 'TU VIAJE',
     'contact' => 'CONTACTO',
+    'language' => 'IDIOMA',
 ];

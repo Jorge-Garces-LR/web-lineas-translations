@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'luxury_ferries' => 'Luxury Ferries',
-    'gateway_to_islands' => 'Gateway to the islands',
+    'luxury_ferries' => 'Ferry a La Graciosa,',
+    'gateway_to_islands' => 'Lanzarote y Fuerteventura',
     'contact_us' => 'Contacta con nosotros',
     'lineas_romero' => 'LÍNEAS ROMERO',
     'address' => 'Avda. virgen del mar 119A',

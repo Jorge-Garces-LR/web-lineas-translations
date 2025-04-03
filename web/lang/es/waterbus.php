@@ -5,7 +5,9 @@ return [
     'description' => 'Información útil sobre el Waterbus de Líneas Romero, el servicio de transporte marítimo que une Puerto del Carmen y Puerto Calero en Lanzarote.',
     'keywords'    => 'waterbus, líneas romero, puerto del carmen, puerto calero, lanzarote, transporte marítimo, bus acuático',
 
+    'service' => 'Servicio de Waterbus',
     'route_title' => 'Puerto del Carmen - Puerto Calero',
+    'minicruise' => 'Disfruta de un minicrucero entre Puerto Calero y Puerto del Carmen, dos bonitos núcleos costeros de Lanzarote',
     'explore_coast' => 'Explora la costa de Lanzarote con este fantástico minicrucero diario que une Puerto del Carmen y Puerto Calero.',
     'check_schedule' => 'Consulta los horarios y elige el que más te convenga. El embarque es fácil y cómodo. Es un recorrido rápido y de corta distancia. Podrás disfrutar de nuestro servicio de bar a bordo y relajarte mientras navegas.',
     'navigate' => 'Navega desde Puerto del Carmen, la principal zona turística de Lanzarote, hasta Puerto Calero o a la inversa. Descubre la isla y disfruta de un paisaje diferente, desde el mar hacia la costa, con Líneas Romero.',
