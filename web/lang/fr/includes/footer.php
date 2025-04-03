@@ -1,5 +1,6 @@
 <?php
 return [
+	'claim_text' => 'FERRYS DE LUXE <br> ACCÈS AUX ÎLES',
 	"address" => "Carretera Mácher - Puerto del Carmen (LZ-504), nº 22, 35571, Lanzarote, Las Palmas, Espagne",
 	"blog" => "Blog",
 	"contact" => "Contact",

@@ -1,8 +1,6 @@
 <?php
-
 return [
-    'luxury_ferries' => 'Ferry a La Graciosa,',
-    'gateway_to_islands' => 'Lanzarote y Fuerteventura',
+    'claim_text' => 'FERRY A LA GRACIOSA, <br> LANZAROTE Y FUERTEVENTURA',
     'contact_us' => 'Contacta con nosotros',
     'lineas_romero' => 'LÍNEAS ROMERO',
     'address' => 'Avda. virgen del mar 119A',

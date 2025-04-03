@@ -1,5 +1,6 @@
 <?php
 return [
+	'claim_text' => 'LUXUS-FÄHREN <br> ZUGANG ZU DEN INSELN',
 	"address" => "Carretera Mácher - Puerto del Carmen (LZ-504), nº 22, 35571, Lanzarote, Las Palmas, Spanien",
 	"blog" => "Blog",
 	"contact" => "Kontakt",
