@@ -1,5 +1,4 @@
 <?php
-
 return [
     "title"       => "Ferry Lanzarote - La Graciosa. Viaja con Líneas Romero de la forma más rápida y cómoda",
     "description" => "Ferry La Graciosa. Viaja en barco desde Lanzarote a La Graciosa de forma segura y rápida. Consulta los horarios de barco a la graciosa en Lineas Romero y reserva al mejor precio.",
